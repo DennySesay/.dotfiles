@@ -1,0 +1,2 @@
+2023/10/10-01:39:41.119 43084 Creating DB /home/dennysesay/.config/heroic/Partitions/epicstore/shared_proto_db since it was missing.
+2023/10/10-01:39:41.122 43084 Reusing MANIFEST /home/dennysesay/.config/heroic/Partitions/epicstore/shared_proto_db/MANIFEST-000001

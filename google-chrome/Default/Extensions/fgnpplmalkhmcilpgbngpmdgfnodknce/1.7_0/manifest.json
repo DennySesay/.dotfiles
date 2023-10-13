@@ -1,0 +1,16 @@
+{
+   "content_scripts": [ {
+      "js": [ "jisho_pitcher.js" ],
+      "matches": [ "*://*.jisho.org/*" ]
+   } ],
+   "description": "Adds pitch accent information to entries in the online Japanese-English Dictionary at jisho.org",
+   "icons": {
+      "48": "icons/border-48.png",
+      "96": "icons/border-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqqmx5Xv0Tf0RKUVTIb5NSnPh7madWgfT0n92r94JsTz2Fru/CZI5gvBGXdtWrLwP6O2EeIphuCh+rEhwNf6Pthlb6NwBHQsYbXzuJu6pX8rJHl8zC2cTJvoGpnGbwZWZbC6sNZCZBzK+Z7qWMPFkSk9m4Dh9JG/ro0mzrZoWYDZQCGZoU6joEzwKFW3rc7VGyww/Jdv9ag8amzDGz7Vm+LY5XHfmXR18jBHSDleBZqKjOoXli00C1NaOOLpeNA9N37zl/bnH6K7T5jWeuM19tVQunmaH6+mWX9B5rDFlXgyAAVMdR7j9a0eb9NR3vzZF1EpH9kuASMGAPOCMrBwj/QIDAQAB",
+   "manifest_version": 2,
+   "name": "jisho-pitcher",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7"
+}

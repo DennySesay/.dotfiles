@@ -1,0 +1,36 @@
+{
+   "description": "A Theme inspired by the Kanagawa Neovim theme created by rebelot",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAphzjMnbVfQcGnKUG8wKYLmvRpG/YXIEdG8AwNjJPrbMX0fP6dXGTRmT0ts4j9Ht4S1rt/x4SOwIEI7WzNSAcY12Gayx7mp4tMQVYcwjZWZ4QcCddJ0GOF0pPYGHRuhrbKIPRmISdv0wSQ21giSGGgiBSTB8X+J7TP2rtmPCA7hETZXamDYAdcoXLfMeS4PBzDuuIJ4w3cYKsqqDkfmsuxi53XuU6N6yiixTtbYOOc04up61iM+AGQqY0BJFmfgXoGFtDypeUdKW3QhgTgmlsyCuyN1pFrLBHi/v3hsIaG7tLd0bACtADIyvnG3bYCEBdiEl+9E6AsK5jEeONwOFUIQIDAQAB",
+   "manifest_version": 3,
+   "name": "Kanagawa",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 220, 215, 186 ],
+         "button_background": [ 54, 54, 70 ],
+         "control_background": [ 228, 104, 118 ],
+         "frame": [ 22, 22, 29 ],
+         "frame_inactive": [ 147, 138, 169 ],
+         "ntp_background": [ 31, 31, 40 ],
+         "ntp_link": [ 36, 79, 101 ],
+         "ntp_section": [ 220, 165, 97 ],
+         "ntp_text": [ 195, 189, 154 ],
+         "omnibox_background": [ 31, 31, 40 ],
+         "omnibox_text": [ 200, 192, 147 ],
+         "tab_background": [ 31, 31, 40 ],
+         "tab_background_text": [ 114, 113, 105 ],
+         "tab_background_text_inactive": [ 22, 22, 29 ],
+         "tab_text": [ 220, 215, 186 ],
+         "toolbar": [ 54, 54, 70 ],
+         "toolbar_button_icon": [ 220, 215, 186 ]
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0.71, 0.15, 0.6 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

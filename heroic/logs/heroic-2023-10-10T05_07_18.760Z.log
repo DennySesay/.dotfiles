@@ -1,0 +1,96 @@
+(07:07:18) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(07:07:18) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(07:07:18) INFO:    [Connection]:       Connectivity: check-online
+(07:07:18) INFO:    [Connection]:       Pinging external endpoints
+(07:07:18) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "name": "Widevine Content Decryption Module",
+    "status": "new",
+    "version": "4.10.2557.0"
+  }
+}
+(07:07:19) WARNING: [Backend]:          Protocol already registered.
+(07:07:19) INFO:    [Connection]:       Connectivity: online
+(07:07:19) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(07:07:19) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(07:07:19) INFO:    [Gog]:              Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/dennysesay/.config/heroic/gog_store/auth.json --version
+(07:07:19) INFO:    [Nile]:             Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(07:07:19) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(07:07:19) INFO:    [Backend]:          
+System Information:
+CPU: 16x AMD Ryzen 7 5800X 8-Core Processor
+Memory: 33.58 GB (used: 4.85 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA102 [GeForce RTX 3080 Lite Hash Rate]
+    IDs: D=2216 V=10de SD=1539 SV=10de
+    Driver: nouveau
+OS: Arch Linux 6.5.6-arch2-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.9.2 Boa Hancock
+  Legendary: 0.20.32 Dark Energy (hotfix #6)
+  gogdl: 0.7.3
+  Nile: 1.0.0 Jonathan Joestar
+
+(07:07:19) INFO:    [Backend]:          Loading Screen Ready
+(07:07:19) INFO:    [Frontend]:         Refreshing undefined Library
+(07:07:19) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(07:07:19) INFO:    [Legendary]:        Refreshing library...
+(07:07:19) INFO:    [Legendary]:        Refreshing Epic Games...
+(07:07:19) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(07:07:19) INFO:    [Backend]:          Frontend Ready
+(07:07:19) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(07:07:19) INFO:    [Gog]:              Found 0 game(s) to update
+(07:07:19) INFO:    [Backend]:          Checking for new Heroic Updates
+(07:07:19) INFO:    [Backend]:          Checking for current version changelog
+(07:07:19) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(07:07:19) INFO:    [Legendary]:        Checking for game updates: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(07:07:21) INFO:    [Legendary]:        Found 0 games to update
+(07:07:21) WARNING: [DXVKInstaller]:    No GPU with Vulkan 1.1 support found, DXVK will not work
+(07:07:21) INFO:    [Winetricks]:       Downloading Winetricks
+(07:07:23) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(07:07:23) INFO:    [Backend]:          Preventing display from sleep
+(07:07:23) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(07:07:23) INFO:    [Backend]:          Preventing machine to sleep
+(07:07:23) INFO:    [Backend]:          Stopping Power Saver Blocker
+(07:07:24) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(07:07:24) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(07:07:24) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(07:07:24) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(07:07:24) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(07:07:24) INFO:    [Backend]:          Starting the Download Queue
+(07:07:32) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(07:07:32) INFO:    [DXVKInstaller]:    dxvk already installed!
+(07:07:32) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(07:07:32) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(07:07:32) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(07:07:32) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 ORIG_LD_LIBRARY_PATH= XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /sbin/wine --language en
+(07:07:37) INFO:    [Legendary]:        Checking if EOS Overlay is enabled: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/dennysesay/Games/Heroic/Prefixes/default
+(07:07:37) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Rocket League
+(07:07:37) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Rocket League
+(07:07:37) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(07:07:37) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(07:07:37) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Sugar --json --platform Windows
+(07:07:37) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Sugar --json --platform Windows
+(07:07:37) INFO:    [Legendary]:        Abort command "XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/dennysesay/Games/Heroic/Prefixes/default"
+(07:07:41) DEBUG:   [Legendary]:        Using cached install info
+(07:07:50) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(07:07:50) INFO:    [Frontend]:         Refreshing legendary Library
+(07:07:50) INFO:    [Legendary]:        Refreshing library...
+(07:07:50) INFO:    [Legendary]:        Refreshing Epic Games...
+(07:07:50) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(07:07:50) DEBUG:   [Legendary]:        Using cached install info
+(07:07:50) DEBUG:   [Legendary]:        Using cached install info
+(07:07:50) DEBUG:   [Legendary]:        Using cached install info
+(07:07:50) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(07:10:02) DEBUG:   [Legendary]:        Using cached install info
+(07:10:06) DEBUG:   [Legendary]:        Using cached install info
+(07:10:17) DEBUG:   [Legendary]:        Using cached install info

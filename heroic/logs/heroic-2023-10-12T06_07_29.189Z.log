@@ -1,0 +1,310 @@
+(08:07:29) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(08:07:29) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(08:07:29) INFO:    [Connection]:       Connectivity: check-online
+(08:07:29) INFO:    [Connection]:       Pinging external endpoints
+(08:07:29) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "name": "Widevine Content Decryption Module",
+    "status": "new",
+    "version": "4.10.2557.0"
+  }
+}
+(08:07:29) WARNING: [Backend]:          Protocol already registered.
+(08:07:29) INFO:    [Connection]:       Connectivity: online
+(08:07:29) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(08:07:29) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(08:07:29) INFO:    [Gog]:              Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/dennysesay/.config/heroic/gog_store/auth.json --version
+(08:07:29) INFO:    [Nile]:             Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(08:07:29) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(08:07:29) INFO:    [Backend]:          
+System Information:
+CPU: 16x AMD Ryzen 7 5800X 8-Core Processor
+Memory: 33.58 GB (used: 3.78 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA102 [GeForce RTX 3080 Lite Hash Rate]
+    IDs: D=2216 V=10de SD=1539 SV=10de
+    Driver: nouveau
+OS: Arch Linux 6.5.6-arch2-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.9.2 Boa Hancock
+  Legendary: 0.20.32 Dark Energy (hotfix #6)
+  gogdl: 0.7.3
+  Nile: 1.0.0 Jonathan Joestar
+
+(08:07:29) INFO:    [Backend]:          Loading Screen Ready
+(08:07:29) INFO:    [Frontend]:         Refreshing undefined Library
+(08:07:29) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(08:07:29) INFO:    [Legendary]:        Refreshing library...
+(08:07:29) INFO:    [Legendary]:        Refreshing Epic Games...
+(08:07:29) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(08:07:29) INFO:    [Backend]:          Frontend Ready
+(08:07:29) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(08:07:29) INFO:    [Gog]:              Found 0 game(s) to update
+(08:07:29) INFO:    [Backend]:          Checking for new Heroic Updates
+(08:07:29) INFO:    [Backend]:          Checking for current version changelog
+(08:07:30) INFO:    [Legendary]:        Checking for game updates: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(08:07:30) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(08:07:31) WARNING: [DXVKInstaller]:    No GPU with Vulkan 1.1 support found, DXVK will not work
+(08:07:31) INFO:    [Winetricks]:       Downloading Winetricks
+(08:07:32) INFO:    [Legendary]:        Found 0 games to update
+(08:07:34) INFO:    [Backend]:          Starting the Download Queue
+(08:07:35) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(08:07:35) INFO:    [Backend]:          Preventing display from sleep
+(08:07:35) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(08:07:35) INFO:    [Backend]:          Preventing machine to sleep
+(08:07:35) INFO:    [Backend]:          Stopping Power Saver Blocker
+(08:07:35) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(08:07:35) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(08:07:35) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(08:07:35) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(08:07:35) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(08:07:43) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(08:07:43) INFO:    [DXVKInstaller]:    dxvk already installed!
+(08:07:43) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(08:07:43) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(08:07:43) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(08:07:43) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 ORIG_LD_LIBRARY_PATH= XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /sbin/wine --language en
+(08:08:01) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(08:08:01) INFO:    [Frontend]:         Refreshing legendary Library
+(08:08:01) INFO:    [Legendary]:        Refreshing library...
+(08:08:01) INFO:    [Legendary]:        Refreshing Epic Games...
+(08:08:01) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(08:08:02) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(08:08:30) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:08:30) DEBUG:   [Backend]:          {"free":760363114496,"diskSize":982820896768,"message":"708.14 GiB / 915.32 GiB","validPath":true}
+(08:08:30) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 0a2d9f6403244d12969e11da6713137b --json --platform Windows
+(08:08:32) DEBUG:   [Backend]:          {"free":760363114496,"diskSize":982820896768,"message":"708.14 GiB / 915.32 GiB","validPath":true}
+(08:08:46) INFO:    [Backend]:          Writing config for 0a2d9f6403244d12969e11da6713137b
+(08:08:46) INFO:    [Backend]:          Changed config: wineCrossoverBottle from undefined to Heroic
+(08:08:46) DEBUG:   [Legendary]:        Using cached install info
+(08:08:46) INFO:    [DownloadManager]:  Fall Guys  was added to the download queue.
+(08:08:46) DEBUG:   [Legendary]:        Using cached install info
+(08:08:46) INFO:    [Legendary]:        Installing 0a2d9f6403244d12969e11da6713137b: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary install 0a2d9f6403244d12969e11da6713137b --platform Windows --base-path /home/dennysesay/Games/Heroic --skip-dlcs -y --skip-sdl
+(08:08:46) DEBUG:   [Legendary]:        Logging to file "/home/dennysesay/.config/heroic/GamesConfig/0a2d9f6403244d12969e11da6713137b.log"
+(08:08:47) INFO:    [Legendary]:        Progress for Fall Guys: 0%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(08:08:48) INFO:    [Legendary]:        Progress for Fall Guys: 0.02%/1.26MB/00:35:43 Down: 1.26MB/s / Disk: 1MB/s
+(08:08:49) INFO:    [Legendary]:        Progress for Fall Guys: 0.08%/4.49MB/01:11:20 Down: 3.22MB/s / Disk: 0MB/s
+(08:08:50) INFO:    [Legendary]:        Progress for Fall Guys: 0.21%/11.08MB/00:08:30 Down: 6.58MB/s / Disk: 13.22MB/s
+(08:08:51) INFO:    [Legendary]:        Progress for Fall Guys: 0.36%/19.04MB/00:09:46 Down: 7.95MB/s / Disk: 7.99MB/s
+(08:08:51) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for VALORANT
+(08:08:51) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for VALORANT
+(08:08:51) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for VALORANT
+(08:08:51) INFO:    [ExtraGameInfo]:    Getting GamesDB data for VALORANT
+(08:08:51) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for VALORANT
+(08:08:51) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for VALORANT
+(08:08:51) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for VALORANT
+(08:08:51) INFO:    [ExtraGameInfo]:    Getting GamesDB data for VALORANT
+(08:08:51) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:08:51) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:08:52) ERROR:   [ExtraGameInfo]:    Was not able to get HowLongToBeat data for VALORANT Error: Error: Request failed with status code 403
+    at HltbSearch.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:96:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:5:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(08:08:52) ERROR:   [ExtraGameInfo]:    Was not able to get HowLongToBeat data for VALORANT Error: Error: Request failed with status code 403
+    at HltbSearch.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:96:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:5:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(08:08:52) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 602eb4abc8764c87b7f2607a1ef8c18e --json --platform Windows
+(08:08:52) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 602eb4abc8764c87b7f2607a1ef8c18e --json --platform Windows
+(08:08:52) INFO:    [Legendary]:        Progress for Fall Guys: 0.4%/20.99MB/00:12:00 Down: 1.95MB/s / Disk: 1MB/s
+(08:08:52) DEBUG:   [Backend]:          No SteamID, not getting ProtonDB info
+(08:08:52) DEBUG:   [Backend]:          No SteamID, not getting Stem Deck info
+(08:08:53) DEBUG:   [Backend]:          No SteamID, not getting ProtonDB info
+(08:08:53) DEBUG:   [Backend]:          No SteamID, not getting Stem Deck info
+(08:08:53) INFO:    [Legendary]:        Getting Info from Epic API
+(08:08:53) INFO:    [Legendary]:        Progress for Fall Guys: 0.57%/29.94MB/00:11:57 Down: 8.94MB/s / Disk: 9.88MB/s
+(08:08:54) INFO:    [Legendary]:        Progress for Fall Guys: 0.68%/35.94MB/00:12:40 Down: 6MB/s / Disk: 6.04MB/s
+(08:08:55) INFO:    [Legendary]:        Progress for Fall Guys: 0.81%/42.93MB/00:13:17 Down: 6.98MB/s / Disk: 6.99MB/s
+(08:08:56) INFO:    [Legendary]:        Progress for Fall Guys: 0.93%/48.93MB/00:13:57 Down: 5.99MB/s / Disk: 5.99MB/s
+(08:08:57) INFO:    [Legendary]:        Progress for Fall Guys: 1%/52.93MB/00:14:50 Down: 3.99MB/s / Disk: 4MB/s
+(08:08:58) INFO:    [Legendary]:        Progress for Fall Guys: 1.13%/59.92MB/00:15:11 Down: 6.99MB/s / Disk: 6.99MB/s
+(08:08:59) INFO:    [Legendary]:        Progress for Fall Guys: 1.28%/67.92MB/00:15:21 Down: 7.99MB/s / Disk: 8MB/s
+(08:09:00) INFO:    [Legendary]:        Progress for Fall Guys: 1.38%/72.91MB/00:16:10 Down: 4.99MB/s / Disk: 3MB/s
+(08:09:00) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Fall Guys
+(08:09:00) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Fall Guys
+(08:09:00) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Fall Guys
+(08:09:00) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Fall Guys
+(08:09:00) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Fall Guys
+(08:09:00) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Fall Guys
+(08:09:00) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Fall Guys
+(08:09:00) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Fall Guys
+(08:09:00) DEBUG:   [Legendary]:        Using cached install info
+(08:09:00) DEBUG:   [Legendary]:        Using cached install info
+(08:09:01) ERROR:   [ExtraGameInfo]:    Was not able to get HowLongToBeat data for Fall Guys Error: Error: Request failed with status code 403
+    at HltbSearch.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:96:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:5:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(08:09:01) ERROR:   [ExtraGameInfo]:    Was not able to get HowLongToBeat data for Fall Guys Error: Error: Request failed with status code 403
+    at HltbSearch.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:96:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:5:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(08:09:01) INFO:    [Legendary]:        Progress for Fall Guys: 1.51%/79.91MB/00:16:07 Down: 6.99MB/s / Disk: 9MB/s
+(08:09:02) INFO:    [Legendary]:        Progress for Fall Guys: 1.55%/81.90MB/00:17:16 Down: 2MB/s / Disk: 0MB/s
+(08:09:02) DEBUG:   [Backend]:          SteamDeck data for 1097150 {"success":1,"results":{"appid":1097150,"resolved_category":1,"resolved_items":[{"display_type":2,"loc_token":"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"}],"steam_deck_blog_url":"","search_id":null}}
+(08:09:03) DEBUG:   [Backend]:          ProtonDB data for 1097150 {"bestReportedTier":"platinum","confidence":"strong","score":0.51,"tier":"silver","total":838,"trendingTier":"gold"}
+(08:09:03) INFO:    [Legendary]:        Getting Info from Epic API
+(08:09:03) DEBUG:   [Backend]:          SteamDeck data for 1097150 {"success":1,"results":{"appid":1097150,"resolved_category":1,"resolved_items":[{"display_type":2,"loc_token":"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"}],"steam_deck_blog_url":"","search_id":null}}
+(08:09:03) DEBUG:   [Backend]:          ProtonDB data for 1097150 {"bestReportedTier":"platinum","confidence":"strong","score":0.51,"tier":"silver","total":838,"trendingTier":"gold"}
+(08:09:03) INFO:    [Legendary]:        Progress for Fall Guys: 1.62%/85.42MB/00:17:33 Down: 3.51MB/s / Disk: 5.06MB/s
+(08:09:04) INFO:    [Legendary]:        Progress for Fall Guys: 1.69%/89.39MB/00:18:12 Down: 3.97MB/s / Disk: 1.86MB/s
+(08:09:05) INFO:    [Legendary]:        Progress for Fall Guys: 1.78%/94.37MB/00:17:53 Down: 4.97MB/s / Disk: 7.98MB/s
+(08:09:06) INFO:    [Legendary]:        Progress for Fall Guys: 1.84%/97.37MB/00:18:29 Down: 2.99MB/s / Disk: 3MB/s
+(08:09:07) INFO:    [Legendary]:        Progress for Fall Guys: 1.94%/102.57MB/00:18:47 Down: 5.21MB/s / Disk: 5MB/s
+(08:09:08) INFO:    [Legendary]:        Progress for Fall Guys: 2.13%/112.79MB/00:18:42 Down: 10.2MB/s / Disk: 7.99MB/s
+(08:09:09) INFO:    [Legendary]:        Progress for Fall Guys: 2.27%/119.82MB/00:16:03 Down: 7.02MB/s / Disk: 24.97MB/s
+(08:09:10) INFO:    [Legendary]:        Progress for Fall Guys: 2.4%/126.73MB/00:14:23 Down: 6.91MB/s / Disk: 16.03MB/s
+(08:09:11) INFO:    [Legendary]:        Progress for Fall Guys: 2.5%/132.14MB/00:14:16 Down: 5.41MB/s / Disk: 9.32MB/s
+(08:09:12) INFO:    [Legendary]:        Progress for Fall Guys: 2.53%/133.85MB/00:13:26 Down: 1.7MB/s / Disk: 12.39MB/s
+(08:09:13) INFO:    [Legendary]:        Progress for Fall Guys: 2.58%/136.28MB/00:13:17 Down: 2.43MB/s / Disk: 5.2MB/s
+(08:09:14) INFO:    [Legendary]:        Progress for Fall Guys: 2.78%/147.15MB/00:12:49 Down: 10.86MB/s / Disk: 14.66MB/s
+(08:09:15) INFO:    [Legendary]:        Progress for Fall Guys: 2.8%/148.12MB/00:13:14 Down: 0.97MB/s / Disk: 1MB/s
+(08:09:16) INFO:    [Legendary]:        Progress for Fall Guys: 3.05%/161.48MB/00:13:04 Down: 13.35MB/s / Disk: 13.99MB/s
+(08:09:17) INFO:    [Legendary]:        Progress for Fall Guys: 3.09%/163.36MB/00:13:25 Down: 1.88MB/s / Disk: 2MB/s
+(08:09:18) INFO:    [Legendary]:        Progress for Fall Guys: 3.18%/168.01MB/00:13:38 Down: 4.65MB/s / Disk: 4.99MB/s
+(08:09:19) INFO:    [Legendary]:        Progress for Fall Guys: 3.36%/177.51MB/00:13:37 Down: 9.49MB/s / Disk: 9.99MB/s
+(08:09:20) INFO:    [Legendary]:        Progress for Fall Guys: 3.39%/179.37MB/00:13:58 Down: 1.86MB/s / Disk: 2MB/s
+(08:09:21) INFO:    [Legendary]:        Progress for Fall Guys: 3.55%/187.81MB/00:14:07 Down: 8.43MB/s / Disk: 5.99MB/s
+(08:09:22) INFO:    [Legendary]:        Progress for Fall Guys: 3.66%/193.53MB/00:14:10 Down: 5.72MB/s / Disk: 7.99MB/s
+(08:09:23) INFO:    [Legendary]:        Progress for Fall Guys: 3.73%/197.36MB/00:14:21 Down: 3.83MB/s / Disk: 4.99MB/s
+(08:09:24) INFO:    [Backend]:          Trying to kill 0a2d9f6403244d12969e11da6713137b
+(08:09:24) INFO:    [Backend]:          Killed 0a2d9f6403244d12969e11da6713137b
+(08:09:24) INFO:    [DownloadManager]:  0a2d9f6403244d12969e11da6713137b removed from download manager.
+(08:09:24) INFO:    [Legendary]:        Abort command "XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary install 0a2d9f6403244d12969e11da6713137b --platform Windows --base-path /home/dennysesay/Games/Heroic --skip-dlcs -y --skip-sdl"
+(08:09:24) WARNING: [DownloadManager]:  Installation of 0a2d9f6403244d12969e11da6713137b aborted!
+(08:09:24) INFO:    [DownloadManager]:  0a2d9f6403244d12969e11da6713137b added to download manager finished.
+(08:09:24) INFO:    [DownloadManager]:  0a2d9f6403244d12969e11da6713137b removed from download manager.
+(08:09:24) INFO:    [Frontend]:         Refreshing undefined Library
+(08:09:24) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(08:09:24) INFO:    [Legendary]:        Refreshing library...
+(08:09:24) INFO:    [Legendary]:        Refreshing Epic Games...
+(08:09:24) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(08:09:24) INFO:    [Backend]:          Stopping Power Saver Blocker
+(08:09:24) DEBUG:   [Legendary]:        Using cached install info
+(08:09:24) DEBUG:   [Legendary]:        Using cached install info
+(08:09:24) DEBUG:   [Legendary]:        Using cached install info
+(08:09:24) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(08:09:34) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Trackmania
+(08:09:34) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Trackmania
+(08:09:34) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Trackmania
+(08:09:34) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Trackmania
+(08:09:34) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Trackmania
+(08:09:34) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Trackmania
+(08:09:34) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Trackmania
+(08:09:34) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Trackmania
+(08:09:34) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:09:34) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:09:34) ERROR:   [ExtraGameInfo]:    Was not able to get HowLongToBeat data for Trackmania Error: Error: Request failed with status code 403
+    at HltbSearch.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:96:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:5:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(08:09:34) ERROR:   [ExtraGameInfo]:    Was not able to get HowLongToBeat data for Trackmania Error: Error: Request failed with status code 403
+    at HltbSearch.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:96:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:5:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(08:09:34) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pigeon --json --platform Windows
+(08:09:34) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pigeon --json --platform Windows
+(08:09:34) DEBUG:   [Backend]:          No SteamID, not getting ProtonDB info
+(08:09:34) DEBUG:   [Backend]:          No SteamID, not getting Stem Deck info
+(08:09:34) DEBUG:   [Backend]:          No SteamID, not getting ProtonDB info
+(08:09:34) DEBUG:   [Backend]:          No SteamID, not getting Stem Deck info
+(08:09:35) INFO:    [Legendary]:        Getting Info from Epic API
+(08:09:49) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for MultiVersus
+(08:09:49) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for MultiVersus
+(08:09:49) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for MultiVersus
+(08:09:49) INFO:    [ExtraGameInfo]:    Getting GamesDB data for MultiVersus
+(08:09:49) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for MultiVersus
+(08:09:49) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for MultiVersus
+(08:09:49) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for MultiVersus
+(08:09:49) INFO:    [ExtraGameInfo]:    Getting GamesDB data for MultiVersus
+(08:09:49) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:09:49) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:09:49) ERROR:   [ExtraGameInfo]:    Was not able to get HowLongToBeat data for MultiVersus Error: Error: Request failed with status code 403
+    at HltbSearch.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:96:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:5:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(08:09:49) ERROR:   [ExtraGameInfo]:    Was not able to get HowLongToBeat data for MultiVersus Error: Error: Request failed with status code 403
+    at HltbSearch.<anonymous> (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:96:27)
+    at Generator.throw (<anonymous>)
+    at rejected (/opt/Heroic/resources/app.asar/node_modules/howlongtobeat/dist/main/hltbsearch.js:5:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(08:09:49) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 711c5e95dc094ca58e5f16bd48e751d6 --json --platform Windows
+(08:09:49) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 711c5e95dc094ca58e5f16bd48e751d6 --json --platform Windows
+(08:09:50) DEBUG:   [Backend]:          ProtonDB data for 1818750 {"bestReportedTier":"platinum","confidence":"strong","score":0.76,"tier":"gold","total":190,"trendingTier":"gold"}
+(08:09:50) DEBUG:   [Backend]:          SteamDeck data for 1818750 {"success":1,"results":{"appid":1818750,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(08:09:50) DEBUG:   [Backend]:          ProtonDB data for 1818750 {"bestReportedTier":"platinum","confidence":"strong","score":0.76,"tier":"gold","total":190,"trendingTier":"gold"}
+(08:09:50) DEBUG:   [Backend]:          SteamDeck data for 1818750 {"success":1,"results":{"appid":1818750,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(08:09:50) ERROR:   [Legendary]:        TypeError: Cannot read properties of null (reading 'windows')
+    at getExtraFromGraphql (/opt/Heroic/resources/app.asar/build/electron/main.c2fc9376.js:84:263)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Module.getExtraInfo$1 [as getExtraInfo] (/opt/Heroic/resources/app.asar/build/electron/main.c2fc9376.js:84:945)
+    at async node:electron/js2c/browser_init:2:98394
+(08:09:50) ERROR:   [Legendary]:        Error Getting Info from Epic API
+(08:09:57) INFO:    [Legendary]:        Checking if EOS Overlay is enabled: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/dennysesay/Games/Heroic/Prefixes/default
+(08:09:57) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Rocket League
+(08:09:57) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Rocket League
+(08:09:57) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:09:57) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(08:09:57) INFO:    [Legendary]:        Abort command "XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/dennysesay/Games/Heroic/Prefixes/default"
+(08:09:57) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Sugar --json --platform Windows
+(08:09:57) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Sugar --json --platform Windows
+(08:09:57) INFO:    [Legendary]:        Getting Info from Epic API
+(08:17:26) INFO:    [Legendary]:        Repairing Sugar: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary repair -y
+(08:17:26) DEBUG:   [Legendary]:        Logging to file "/home/dennysesay/.config/heroic/GamesConfig/Sugar.log"
+(08:17:26) DEBUG:   [Legendary]:        Using cached install info
+(08:17:26) DEBUG:   [Legendary]:        Using cached install info
+(08:17:26) INFO:    [Backend]:          Finished repairing
+(08:17:26) INFO:    [Frontend]:         Refreshing legendary Library
+(08:17:26) INFO:    [Legendary]:        Refreshing library...
+(08:17:26) INFO:    [Legendary]:        Refreshing Epic Games...
+(08:17:26) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(08:17:26) INFO:    [Backend]:          Stopping Power Saver Blocker
+(08:17:26) DEBUG:   [Legendary]:        Using cached install info
+(08:17:26) DEBUG:   [Legendary]:        Using cached install info
+(08:17:26) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(08:17:29) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(08:17:29) INFO:    [Backend]:          Preventing display from sleep
+(08:17:29) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(08:17:29) DEBUG:   [Legendary]:        Using cached install info
+(08:17:29) INFO:    [Backend]:          Stopping Power Saver Blocker
+(08:17:29) DEBUG:   [Legendary]:        Using cached install info
+(08:17:29) DEBUG:   [Legendary]:        Using cached install info
+(08:17:29) DEBUG:   [Legendary]:        Using cached install info
+(08:17:29) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(08:17:29) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(08:17:29) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(08:17:29) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(08:17:29) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(08:17:35) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(08:17:35) INFO:    [DXVKInstaller]:    dxvk already installed!
+(08:17:35) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(08:17:35) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(08:17:35) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(08:17:35) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 ORIG_LD_LIBRARY_PATH= XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /sbin/wine --language en
+(08:17:54) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(08:17:54) INFO:    [Frontend]:         Refreshing legendary Library
+(08:17:54) INFO:    [Legendary]:        Refreshing library...
+(08:17:54) INFO:    [Legendary]:        Refreshing Epic Games...
+(08:17:54) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(08:17:54) DEBUG:   [Legendary]:        Using cached install info
+(08:17:54) DEBUG:   [Legendary]:        Using cached install info
+(08:17:54) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party

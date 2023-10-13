@@ -1,0 +1,85 @@
+2023-10-06 12:55:11: AppMain Awake ...
+2023-10-06 12:55:11: 线程:MaxWorkerThreads=1600,MaxCompletionPortThreads=1600
+2023-10-06 12:55:11: DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+2023-10-06 12:55:11: [Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+2023-10-06 12:55:11: DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+2023-10-06 12:55:11: [Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+2023-10-06 12:55:11: Using Sign in with Apple Unity Plugin - v1.4.2
+2023-10-06 12:55:11: [Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+2023-10-06 12:55:11: Enter 'GameFrame.ProceStartUp' procedure.
+2023-10-06 12:55:11: application init : LinuxPlayer
+2023-10-06 12:55:11: LoadConfig...
+2023-10-06 12:55:11: version 
+2023-10-06 12:55:11: Leave 'GameFrame.ProceStartUp' procedure.
+2023-10-06 12:55:11: Enter 'GameFrame.ProceGameInit' procedure.
+2023-10-06 12:55:11: 12:55:11.545-1: Init lua state cost: 0.00393188
+2023-10-06 12:55:11: 12:55:11.552-1: Register lua type cost time: 0.006193049
+2023-10-06 12:55:11: 12:55:11.556-1: LuaState start
+2023-10-06 12:55:11: 12:55:11.561-1: Type GameBase.ProcedureManager not wrap to lua, push as GameBase.GameModuleBase, the warning is only raised once
+2023-10-06 12:55:11: Lua 5.3
+stack traceback:
+	Base/functions:114: in function 'log'
+	Main.lua:48: in function 'Main'
+2023-10-06 12:55:11: 12:55:11.568-1: Type UnityEngine.Networking.UnityWebRequestAsyncOperation not wrap to lua, push as UnityEngine.AsyncOperation, the warning is only raised once
+2023-10-06 12:55:11: 12:55:11.838-10: OnCheckVersion     https://awscn2.mahjong-jp.com/users/checkVersion    0.44381720945239    0
+2023-10-06 12:55:12: 12:55:12.106-17: OnCheckVersion     13.112.183.79/users/checkVersion    0.67715113982558    2
+2023-10-06 12:55:12: 12:55:12.175-20: OnCheckVersion     16.162.37.240/users/checkVersion    0.78122965618968    2
+2023-10-06 12:55:12: 12:55:12.292-23: Type System.Collections.Generic.List<GameFrame.FileEntity> not wrap to lua, push as System.Collections.Generic.List<T>, the warning is only raised once
+2023-10-06 12:55:12: 12:55:12.658-34: OnCheckVersion     https://aga.mahjong-jp.net/users/checkVersion    1.2643706016243    2
+2023-10-06 12:55:12: 12:55:12.659-34: CheckBestIPResult     16.162.37.240
+2023-10-06 12:56:52: 12:56:52.701-992: LuaState destroy
+2023-10-06 12:56:52: 12:56:52.702-992: Init lua state cost: 0.0003890991
+2023-10-06 12:56:52: 12:56:52.706-992: Register lua type cost time: 0.003257751
+2023-10-06 12:56:52: 12:56:52.707-992: LuaState start
+2023-10-06 12:56:52: 12:56:52.711-992: Type GameBase.ProcedureManager not wrap to lua, push as GameBase.GameModuleBase, the warning is only raised once
+2023-10-06 12:56:52: Lua 5.3
+stack traceback:
+	Base/functions:114: in function 'log'
+	Main.lua:48: in function 'Main'
+2023-10-06 12:56:52: 12:56:52.716-992: Type UnityEngine.Networking.UnityWebRequestAsyncOperation not wrap to lua, push as UnityEngine.AsyncOperation, the warning is only raised once
+2023-10-06 12:56:53: [Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+2023-10-06 12:56:53: ticketBlob 14000000026cbb578e3cd7f81fb9ff400100100161e41f6518000000010000000200000043d157e9d7faaff7ae2b0e0001000000b200000032000000040000001fb9ff400100100174d21d004cb4f55964b2a8c000000000b1e41f6531943b650100bfc10a0000000000dd5c46edd1f21c1ddad19832ff15de4548996639fe432f793f48baf8bf4be8ee5aba68408d1b7ca751a088e56633642a44c7e8c9bd8a7b6d868cd1864c4be1742aa2f74d2a78509a70cf53a5d7896069090404f1a0569671f5b8693702c10dffe4c63dfbe5fd9e99212fb4f699ac74a1f8f5813b702ea00ee8f57769e5f7d761
+2023-10-06 12:56:53: [Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+2023-10-06 12:56:53: sourceList[type]
+2023-10-06 12:56:53: 12:56:53.296-9: flowLog     login_start
+2023-10-06 12:56:53: 12:56:53.297-9: flowLog     login_update
+2023-10-06 12:56:53: 12:56:53.297-9: OnCheckVersion     3.115.226.82/users/checkVersion    101.80476504564    3
+2023-10-06 12:56:53: 12:56:53.315-11: flowLog     event_http_delay
+2023-10-06 12:56:53: 12:56:53.315-11: OnCheckVersion     13.112.183.79/users/checkVersion    101.88680511713    3
+2023-10-06 12:56:53: 12:56:53.665-32: flowLog     event_http_delay
+2023-10-06 12:56:53: 12:56:53.665-32: OnCheckVersion     https://aga.mahjong-jp.net/users/checkVersion    102.2368069049    3
+2023-10-06 12:56:53: 12:56:53.815-41: flowLog     event_http_delay
+2023-10-06 12:56:53: 12:56:53.815-41: flowLog     event_http_delay
+2023-10-06 12:56:53: 12:56:53.998-52: flowLog     event_http_delay
+2023-10-06 12:56:53: 12:56:53.998-52: OnCheckVersion     https://cn2aws.mahjong-jp.net/users/checkVersion    102.57014248334    3
+2023-10-06 12:56:54: 12:56:54.265-68: flowLog     event_http_delay
+2023-10-06 12:56:54: 12:56:54.331-72: flowLog     event_http_delay
+2023-10-06 12:56:54: 12:56:54.365-74: flowLog     event_http_delay
+2023-10-06 12:56:54: 12:56:54.415-77: flowLog     event_http_delay
+2023-10-06 12:56:55: 12:56:55.260-97: Type UnityEngine.Font not wrap to lua, push as UnityEngine.Object, the warning is only raised once
+2023-10-06 12:56:55: 12:56:55.263-97: flowLog     login_visit
+2023-10-06 12:56:55: 12:56:55.269-97: flowLog     event_http_delay
+2023-10-06 12:56:55: 12:56:55.270-97: flowLog     event_http_delay
+2023-10-06 12:56:55: 12:56:55.270-97: flowLog     event_http_delay
+2023-10-06 12:56:55: 12:56:55.273-98: flowLog     login_main_popup_display
+2023-10-06 12:56:55: 12:56:55.274-98: flowLog     login_pull_sdk
+2023-10-06 12:56:55: 12:56:55.441-108: flowLog     event_http_delay
+2023-10-06 12:56:55: 12:56:55.775-128: flowLog     event_http_delay
+2023-10-06 12:56:55: 12:56:55.775-128: flowLog     event_http_delay
+2023-10-06 12:56:55: 12:56:55.791-129: flowLog     event_http_delay
+2023-10-06 12:56:55: 12:56:55.858-133: flowLog     event_http_delay
+2023-10-06 12:56:56: 12:56:56.225-155: flowLog     event_http_delay
+2023-10-06 12:56:56: 12:56:56.225-155: flowLog     event_http_delay
+2023-10-06 12:56:56: 12:56:56.275-158: flowLog     event_http_delay
+2023-10-06 12:56:56: 12:56:56.341-162: flowLog     event_http_delay
+2023-10-06 12:56:56: 12:56:56.358-163: flowLog     event_http_delay
+2023-10-06 12:56:56: 12:56:56.391-165: flowLog     event_http_delay
+2023-10-06 12:56:56: 12:56:56.392-165: flowLog     event_http_delay
+2023-10-06 12:56:56: 12:56:56.541-174: flowLog     event_http_delay
+2023-10-06 12:56:57: 12:56:57.175-212: flowLog     event_http_delay
+2023-10-06 12:56:57: 12:56:57.191-213: flowLog     event_http_delay
+2023-10-06 12:56:57: 12:56:57.425-227: flowLog     event_http_delay
+2023-10-06 12:56:57: 12:56:57.658-241: flowLog     event_http_delay
+2023-10-06 12:57:09: Leave 'GameFrame.ProceGameInit' procedure.
+2023-10-06 12:57:09: 12:57:09.340-939: LuaState destroy
+2023-10-06 12:57:09: NullReferenceException: Object reference not set to an instance of an object.

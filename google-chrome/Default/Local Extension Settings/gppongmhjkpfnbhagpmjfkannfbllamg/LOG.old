@@ -1,0 +1,72 @@
+2023/10/13-03:02:29.211 429 Reusing MANIFEST /home/dennysesay/.config/google-chrome/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/MANIFEST-000001
+2023/10/13-03:02:29.211 429 Recovering log #1446
+2023/10/13-03:02:29.213 429 Reusing old log /home/dennysesay/.config/google-chrome/Default/Local Extension Settings/gppongmhjkpfnbhagpmjfkannfbllamg/001446.log 
+2023/10/13-03:02:55.743 42a Level-0 table #1451: started
+2023/10/13-03:02:55.757 42a Level-0 table #1451: 494275 bytes OK
+2023/10/13-03:02:55.759 42a Delete type=0 #1446
+2023/10/13-03:02:56.001 42a Level-0 table #1453: started
+2023/10/13-03:02:56.008 42a Level-0 table #1453: 1136265 bytes OK
+2023/10/13-03:02:56.010 42a Delete type=0 #1450
+2023/10/13-03:02:56.051 42a Level-0 table #1455: started
+2023/10/13-03:02:56.059 42a Level-0 table #1455: 994302 bytes OK
+2023/10/13-03:02:56.061 42a Delete type=0 #1452
+2023/10/13-03:02:56.274 42a Level-0 table #1457: started
+2023/10/13-03:02:56.285 42a Level-0 table #1457: 1434432 bytes OK
+2023/10/13-03:02:56.287 42a Delete type=0 #1454
+2023/10/13-03:02:56.289 42a Compacting 4@0 + 1@1 files
+2023/10/13-03:02:56.312 42a Generated table #1458@0: 1 keys, 1010395 bytes
+2023/10/13-03:02:56.312 42a Compacted 4@0 + 1@1 files => 1010395 bytes
+2023/10/13-03:02:56.313 42a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-03:02:56.313 42a Delete type=2 #1453
+2023/10/13-03:02:56.313 42a Delete type=2 #1451
+2023/10/13-03:02:56.313 42a Delete type=2 #1457
+2023/10/13-03:02:56.313 42a Delete type=2 #1448
+2023/10/13-03:02:56.313 42a Delete type=2 #1455
+2023/10/13-03:02:56.463 42a Level-0 table #1460: started
+2023/10/13-03:02:56.481 42a Level-0 table #1460: 1329620 bytes OK
+2023/10/13-03:02:56.484 42a Delete type=0 #1456
+2023/10/13-03:02:56.728 42a Level-0 table #1462: started
+2023/10/13-03:02:56.738 42a Level-0 table #1462: 1273281 bytes OK
+2023/10/13-03:02:56.744 42a Delete type=0 #1459
+2023/10/13-03:02:56.749 42a Level-0 table #1464: started
+2023/10/13-03:02:56.756 42a Level-0 table #1464: 1025541 bytes OK
+2023/10/13-03:02:56.758 42a Delete type=0 #1461
+2023/10/13-03:02:56.817 42a Level-0 table #1466: started
+2023/10/13-03:02:56.825 42a Level-0 table #1466: 1075077 bytes OK
+2023/10/13-03:02:56.827 42a Delete type=0 #1463
+2023/10/13-03:02:56.828 42a Compacting 4@0 + 1@1 files
+2023/10/13-03:02:56.847 42a Generated table #1467@0: 1 keys, 1025541 bytes
+2023/10/13-03:02:56.847 42a Compacted 4@0 + 1@1 files => 1025541 bytes
+2023/10/13-03:02:56.848 42a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-03:02:56.848 42a Delete type=2 #1458
+2023/10/13-03:02:56.848 42a Delete type=2 #1462
+2023/10/13-03:02:56.848 42a Delete type=2 #1460
+2023/10/13-03:02:56.848 42a Delete type=2 #1464
+2023/10/13-03:02:56.848 42a Delete type=2 #1466
+2023/10/13-03:02:56.936 42a Level-0 table #1469: started
+2023/10/13-03:02:56.941 42a Level-0 table #1469: 522772 bytes OK
+2023/10/13-03:02:56.943 42a Delete type=0 #1465
+2023/10/13-03:02:57.155 42a Level-0 table #1471: started
+2023/10/13-03:02:57.160 42a Level-0 table #1471: 521495 bytes OK
+2023/10/13-03:02:57.161 42a Delete type=0 #1468
+2023/10/13-03:02:57.176 42a Level-0 table #1473: started
+2023/10/13-03:02:57.183 42a Level-0 table #1473: 1041084 bytes OK
+2023/10/13-03:02:57.184 42a Delete type=0 #1470
+2023/10/13-03:02:57.253 42a Level-0 table #1475: started
+2023/10/13-03:02:57.261 42a Level-0 table #1475: 1215693 bytes OK
+2023/10/13-03:02:57.263 42a Delete type=0 #1472
+2023/10/13-03:02:57.264 42a Compacting 4@0 + 1@1 files
+2023/10/13-03:02:57.279 42a Generated table #1476@0: 1 keys, 1018700 bytes
+2023/10/13-03:02:57.279 42a Compacted 4@0 + 1@1 files => 1018700 bytes
+2023/10/13-03:02:57.280 42a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-03:02:57.281 42a Delete type=2 #1467
+2023/10/13-03:02:57.281 42a Delete type=2 #1475
+2023/10/13-03:02:57.281 42a Delete type=2 #1469
+2023/10/13-03:02:57.281 42a Delete type=2 #1473
+2023/10/13-03:02:57.281 42a Delete type=2 #1471
+2023/10/13-03:03:02.037 42a Level-0 table #1478: started
+2023/10/13-03:03:02.042 42a Level-0 table #1478: 477590 bytes OK
+2023/10/13-03:03:02.043 42a Delete type=0 #1474
+2023/10/13-03:03:03.188 42a Level-0 table #1480: started
+2023/10/13-03:03:03.202 42a Level-0 table #1480: 462867 bytes OK
+2023/10/13-03:03:03.203 42a Delete type=0 #1477

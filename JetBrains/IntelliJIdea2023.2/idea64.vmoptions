@@ -1,0 +1,4 @@
+-Xmx2048m
+-Dide.managed.by.toolbox=/home/dennysesay/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=0b496bef-c432-408d-a033-fcf9bbca59c9
+-Dtoolbox.notification.portFile=/home/dennysesay/.local/share/JetBrains/Toolbox/cache/ports/1007935506.port

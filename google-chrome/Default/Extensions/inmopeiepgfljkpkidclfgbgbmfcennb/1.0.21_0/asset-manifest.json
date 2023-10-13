@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.js",
+    "inject.js": "/static/js/inject.js",
+    "background.js": "/static/js/background.js",
+    "init.js": "/static/js/init.js",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.js"
+  ]
+}

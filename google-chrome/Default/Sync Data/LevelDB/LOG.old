@@ -1,0 +1,6 @@
+2023/10/13-03:02:26.799 44f Reusing MANIFEST /home/dennysesay/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/10/13-03:02:26.799 44f Recovering log #195
+2023/10/13-03:02:26.803 44f Reusing old log /home/dennysesay/.config/google-chrome/Default/Sync Data/LevelDB/000195.log 
+2023/10/13-03:02:34.531 42a Level-0 table #199: started
+2023/10/13-03:02:34.533 42a Level-0 table #199: 175817 bytes OK
+2023/10/13-03:02:34.536 42a Delete type=0 #195

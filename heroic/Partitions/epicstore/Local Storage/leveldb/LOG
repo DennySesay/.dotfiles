@@ -1,0 +1,5 @@
+2023/10/10-00:27:54.556 43092 Creating DB /home/dennysesay/.config/heroic/Partitions/epicstore/Local Storage/leveldb since it was missing.
+2023/10/10-00:27:54.573 43092 Reusing MANIFEST /home/dennysesay/.config/heroic/Partitions/epicstore/Local Storage/leveldb/MANIFEST-000001
+2023/10/10-01:40:04.832 4417b Level-0 table #5: started
+2023/10/10-01:40:04.842 4417b Level-0 table #5: 42581 bytes OK
+2023/10/10-01:40:04.844 4417b Delete type=0 #3

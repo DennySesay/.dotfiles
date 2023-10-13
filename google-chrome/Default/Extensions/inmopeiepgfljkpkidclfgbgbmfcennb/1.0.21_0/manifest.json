@@ -1,0 +1,20 @@
+{
+   "author": "Solaiman Kmail",
+   "background": {
+      "persistent": true,
+      "scripts": [ "static/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "logo.png"
+   },
+   "description": "Show multiple screens once, Responsive design tester",
+   "icons": {
+      "128": "logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjlEojUpsWQMWkQRVapluKBdJnM+U3EarnM56Iw8J/qcgZhurOT+F/Tup/FQVT4vQAR05kYmMyvF/6Ht5S5Np2z0zPVl7ailwsTXgMGsunDLzIrNaaWVf/f0pco54vel7Y/9XOk+m0AgKWzgxtZFN9BX/wZDJLXYC3P/mlgRAIm6wqN10lcfuMxfVQ00Wcbk1/7A9ZViAnVpQzcCeJDFQwx8nEmdilGw/9L+caj2LkgV1g9J1RTmNULqTlHqo8iZm4RTwgD9wufZtL6gRGCCorJyvfKICDfchnxfiGGwsh6Rc3jtH56Di4jpNXJ6ua5dFmLYvN1pqM6QaCWK/qtARdwIDAQAB",
+   "manifest_version": 2,
+   "name": "Responsive Viewer",
+   "permissions": [ "storage", "tabs", "activeTab", "webRequest", "webNavigation", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.21"
+}

@@ -1,0 +1,235 @@
+{
+	"__timestamp": {
+		"0a2d9f6403244d12969e11da6713137b": "Thu Oct 12 2023 08:08:32 GMT+0200 (Central European Summer Time)",
+		"602eb4abc8764c87b7f2607a1ef8c18e": "Thu Oct 12 2023 08:08:55 GMT+0200 (Central European Summer Time)",
+		"Pigeon": "Thu Oct 12 2023 08:09:36 GMT+0200 (Central European Summer Time)",
+		"711c5e95dc094ca58e5f16bd48e751d6": "Thu Oct 12 2023 08:09:52 GMT+0200 (Central European Summer Time)",
+		"Sugar": "Thu Oct 12 2023 08:10:00 GMT+0200 (Central European Summer Time)"
+	},
+	"0a2d9f6403244d12969e11da6713137b": {
+		"game": {
+			"app_name": "0a2d9f6403244d12969e11da6713137b",
+			"title": "Fall Guys",
+			"version": "EGS_4919",
+			"platform_versions": {
+				"Windows": "EGS_4919"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 476267,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "4b4264baef5e42d3b952c0ff5114e292",
+			"launch_exe": "RunFallGuys.exe",
+			"launch_command": "",
+			"build_version": "EGS_4919",
+			"build_id": "o2vySHJhGkNykswgkVF0osVMRLo",
+			"prerequisites": {
+				"ids": [
+					"EasyAntiCheatFallGuys"
+				],
+				"name": "",
+				"path": "EasyAntiCheat/EasyAntiCheat_Setup.exe",
+				"args": "install 591 -console"
+			},
+			"install_tags": [
+				""
+			],
+			"num_files": 2093,
+			"num_chunks": 6000,
+			"disk_size": 6288657744,
+			"download_size": 5545986290,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"602eb4abc8764c87b7f2607a1ef8c18e": {
+		"game": {
+			"app_name": "602eb4abc8764c87b7f2607a1ef8c18e",
+			"title": "VALORANT",
+			"version": "4352238-29145",
+			"platform_versions": {
+				"Windows": "4352238-29145"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 22666,
+			"type": "json",
+			"version": 13,
+			"feature_level": 13,
+			"app_name": "0578b99425c844c1874a2b99bfadd74e",
+			"launch_exe": "Live.exe",
+			"launch_command": "--launch-product=valorant --launch-patchline=live --thirdparty",
+			"build_version": "4352238-29145",
+			"build_id": "emGvxuXLmS_tex1Lgh-vsYKI0RI",
+			"prerequisites": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1,
+			"num_chunks": 66,
+			"disk_size": 69040184,
+			"download_size": 65045509,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Pigeon": {
+		"game": {
+			"app_name": "Pigeon",
+			"title": "Trackmania",
+			"version": "1.3",
+			"platform_versions": {
+				"Windows": "1.3"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": "ubisoft",
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 240560,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "PigeonStaging",
+			"launch_exe": "UplayLaunch.exe",
+			"launch_command": "-UplayId=5595",
+			"build_version": "1.3",
+			"build_id": "lvDraMeHQgErGAMYGMuDYFsbZ8A",
+			"prerequisites": {
+				"ids": [
+					"uplay"
+				],
+				"name": "",
+				"path": "Uplay/UplayInstaller.exe",
+				"args": "/S"
+			},
+			"install_tags": [
+				""
+			],
+			"num_files": 32,
+			"num_chunks": 3618,
+			"disk_size": 3823829156,
+			"download_size": 2979870665,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"711c5e95dc094ca58e5f16bd48e751d6": {
+		"game": {
+			"app_name": "711c5e95dc094ca58e5f16bd48e751d6",
+			"title": "MultiVersus",
+			"version": "80480",
+			"platform_versions": {
+				"Windows": "80480"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 513837,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "711c5e95dc094ca58e5f16bd48e751d6",
+			"launch_exe": "start_protected_game.exe",
+			"launch_command": "",
+			"build_version": "80480",
+			"build_id": "kNquvmOOWksA6zZffHrP0EYkIXI",
+			"prerequisites": {
+				"ids": [
+					"EAC"
+				],
+				"name": "",
+				"path": "EasyAntiCheat/EasyAntiCheat_EOS_Setup.exe",
+				"args": "install 5f8c5b9a91ca4e33b4afe3040b27e45e"
+			},
+			"install_tags": [
+				""
+			],
+			"num_files": 204,
+			"num_chunks": 7497,
+			"disk_size": 7873719688,
+			"download_size": 7263167905,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Sugar": {
+		"game": {
+			"app_name": "Sugar",
+			"title": "Rocket League®",
+			"version": "BC2_Update45+430366",
+			"platform_versions": {
+				"Windows": "BC2_Update45+430366"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "BC2_Update45+430366",
+			"disk_size": 27117569851,
+			"install_path": "/home/dennysesay/Games/Heroic/rocketleague",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 2106600,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "SugarStaging",
+			"launch_exe": "Binaries/Win64/RocketLeague.exe",
+			"launch_command": "",
+			"build_version": "BC2_Update45+430366",
+			"build_id": "cU5ZWeU1QoO4OLS3mHUzQbjEXv8",
+			"prerequisites": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 13758,
+			"num_chunks": 23913,
+			"disk_size": 27117569851,
+			"download_size": 24569857957,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

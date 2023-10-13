@@ -1,0 +1,25 @@
+{
+  "Sugar": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "language": "",
+    "wineVersion": {
+      "bin": "/home/dennysesay/.config/heroic/tools/proton/Proton-GE-latest/proton",
+      "name": "Proton - Proton-GE-latest",
+      "type": "proton"
+    },
+    "winePrefix": "/home/dennysesay/Games/Heroic/Prefixes/default",
+    "wineCrossoverBottle": "Heroic",
+    "autoInstallDxvkNvapi": true
+  },
+  "version": "v0",
+  "explicit": true
+}

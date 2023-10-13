@@ -1,0 +1,607 @@
+Preloaded 'FirebaseCppApp-9_0_0.so'
+Preloaded 'libsteam_api.so'
+Preloaded 'libtolua.so'
+Preloaded 'tolua.so'
+Preloaded 'FirebaseCppAnalytics.so'
+AS: AutoStreaming module initializing.Display 0 'LG HDR WFHD 34"': 2560x1080 (primary device).
+Unable to load player prefs
+Desktop is 2560 x 1080 @ 60 Hz
+Initialize engine version: 2020.3.42f1c1 (b85f4368f10f)
+[Subsystems] Discovering subsystems at path /home/dennysesay/.local/share/Steam/steamapps/common/RiichiCity/Mahjong-JP_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Renderer: NV172
+Vendor:   Mesa
+Version:  4.3 (Core Profile) Mesa 23.2.1-arch1.1
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL
+_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex 
+GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_
+ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_
+once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transfo
+rm_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap_triangles GL_NV_copy_image GL_NV_depth_clamp GL_NV_fill_rectangle GL_NV_packed_depth_stencil GL_NV_sample_locations GL_NV_texture_barrier GL_NV_vdpau_interop GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.3 graphics device ; Context level  <OpenGL 4.3> ; Context handle 39851136
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Default vsync count 0
+requesting resize 1920 x 1080
+resizing window to 1920 x 1080
+Desktop is 2560 x 1080 @ 60 Hz
+UnloadTime: 0.383561 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+AppMain Awake ...
+GameFrame.AppMain:Awake()
+
+线程:MaxWorkerThreads=1600,MaxCompletionPortThreads=1600
+GameFrame.ThreadManager:Init()
+System.Reflection.MonoCMethod:InternalInvoke(Object, Object[])
+System.Activator:CreateInstance()
+GameBase.GameModuleManager:CreateModule()
+GameFrame.GameModules:InitModules()
+GameFrame.GameController:Init()
+GameFrame.AppMain:Awake()
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+com.adjust.sdk.Adjust:Awake()
+
+[ line 884566280]
+
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+com.adjust.sdk.Adjust:Awake()
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+Line.LineSDK.LineSDK:Awake()
+
+[ line 884566328]
+
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+Desktop is 2560 x 1080 @ 60 Hz
+Using Sign in with Apple Unity Plugin - v1.4.2
+GameFrame.LoginSdkManager:OnStart()
+GameBase.GameModuleManager:OnStart()
+GameFrame.GameController:Start()
+
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+com.adjust.sdk.Adjust:getAdid()
+GameFrame.LoginSdkManager:OnStart()
+GameBase.GameModuleManager:OnStart()
+GameFrame.GameController:Start()
+
+Enter 'GameFrame.ProceStartUp' procedure.
+LogFormatAction:Invoke(String, Object[])
+GameFrame.ProceBase:OnEnter(IFsm`1)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+application init : LinuxPlayer
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+LoadConfig...
+GameFrame.<LoadConfig>d__7:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:LoadConfig()
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+version 
+GameFrame.<CheckAndExtractPacketInnerFile>d__8:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:CheckAndExtractPacketInnerFile()
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+Leave 'GameFrame.ProceStartUp' procedure.
+LogFormatAction:Invoke(String, Object[])
+GameFrame.ProceBase:OnLeave(IFsm`1, Boolean)
+GameFrame.ProceStartUp:OnLeave(IFsm`1, Boolean)
+GameBase.Fsm`1:ChangeState(Type)
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+Enter 'GameFrame.ProceGameInit' procedure.
+LogFormatAction:Invoke(String, Object[])
+GameFrame.ProceBase:OnEnter(IFsm`1)
+GameFrame.ProceGameInit:OnEnter(IFsm`1)
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+12:55:11.545-1: Init lua state cost: 0.00393188
+LuaInterface.Debugger:Log(String)
+LuaInterface.LuaState:.ctor()
+GameFrame.LuaManager:Init()
+GameFrame.LuaManager:Startup()
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+12:55:11.552-1: Register lua type cost time: 0.006193049
+LuaInterface.Debugger:Log(String)
+LuaBinder:Bind(LuaState)
+GameFrame.LuaManager:Init()
+GameFrame.LuaManager:Startup()
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+12:55:11.556-1: LuaState start
+LuaInterface.Debugger:Log(String)
+LuaInterface.LuaState:Start()
+GameFrame.LuaManager:Startup()
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+12:55:11.561-1: Type GameBase.ProcedureManager not wrap to lua, push as GameBase.GameModuleBase, the warning is only raised once
+LuaInterface.Debugger:LogWarning(String)
+LuaInterface.LuaState:GetMissMetaReference(Type)
+LuaInterface.ToLua:PushSealed(IntPtr, T)
+GameFrame_LuaHelperWrap:GetGameManager(IntPtr)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaState:LuaLoadBuffer(Byte[], String)
+GameFrame.LuaManager:StartMain()
+GameFrame.LuaManager:Startup()
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+Lua 5.3
+stack traceback:
+	Base/functions:114: in function 'log'
+	Main.lua:48: in function 'Main'
+GameFrame_UtilWrap:Log(IntPtr)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaState:PCall(Int32, Int32)
+LuaInterface.LuaFunction:PCall()
+LuaInterface.LuaFunction:Call()
+GameFrame.LuaManager:StartMain()
+GameFrame.LuaManager:Startup()
+GameFrame.<Startup>d__6:MoveNext()
+System.Runtime.CompilerServices.AsyncVoidMethodBuilder:Start(TStateMachine&)
+GameFrame.ProceStartUp:OnEnter(IFsm`1)
+
+12:55:11.568-1: Type UnityEngine.Networking.UnityWebRequestAsyncOperation not wrap to lua, push as UnityEngine.AsyncOperation, the warning is only raised once
+LuaInterface.Debugger:LogWarning(String)
+LuaInterface.LuaState:GetMissMetaReference(Type)
+LuaInterface.ToLua:PushUserObject(IntPtr, Object)
+UnityEngine_Networking_UnityWebRequestWrap:SendWebRequest(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+Curl error 6: Could not resolve host: awscn2.mahjong-jp.com
+12:55:11.838-10: OnCheckVersion     https://awscn2.mahjong-jp.com/users/checkVersion    0.44381720945239    0
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:55:12.106-17: OnCheckVersion     13.112.183.79/users/checkVersion    0.67715113982558    2
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+Curl error 6: Could not resolve host: awscn2.mahjong-jp.com
+12:55:12.175-20: OnCheckVersion     16.162.37.240/users/checkVersion    0.78122965618968    2
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:55:12.292-23: Type System.Collections.Generic.List<GameFrame.FileEntity> not wrap to lua, push as System.Collections.Generic.List<T>, the warning is only raised once
+LuaInterface.Debugger:LogWarning(String)
+LuaInterface.LuaState:GetMissMetaReference(Type)
+LuaInterface.ToLua:PushSealed(IntPtr, T)
+GameFrame_UpdateManagerWrap:get_startUncompressFiles(IntPtr)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaState:PCall(Int32, Int32)
+LuaInterface.LuaFunction:PCall()
+LuaInterface.LuaFunction:Call(T1)
+GameFrame.Download.<StartDownload>d__9:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+12:55:12.658-34: OnCheckVersion     https://aga.mahjong-jp.net/users/checkVersion    1.2643706016243    2
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:55:12.659-34: CheckBestIPResult     16.162.37.240
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:52.701-992: LuaState destroy
+LuaInterface.Debugger:Log(String)
+LuaInterface.LuaState:Dispose()
+GameFrame.LuaManager:Reset()
+GameFrame.LuaManager:<ReloadAllCor>b__15_0()
+System.Action:Invoke()
+<ActionWrapper>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+System.Action:Invoke()
+UnityMainThreadDispatcher:Update()
+
+12:56:52.702-992: Init lua state cost: 0.0003890991
+LuaInterface.Debugger:Log(String)
+LuaInterface.LuaState:.ctor()
+GameFrame.LuaManager:Init()
+GameFrame.LuaManager:Startup()
+System.Action:Invoke()
+<ActionWrapper>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+System.Action:Invoke()
+UnityMainThreadDispatcher:Update()
+
+12:56:52.706-992: Register lua type cost time: 0.003257751
+LuaInterface.Debugger:Log(String)
+LuaBinder:Bind(LuaState)
+GameFrame.LuaManager:Init()
+GameFrame.LuaManager:Startup()
+System.Action:Invoke()
+<ActionWrapper>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+System.Action:Invoke()
+UnityMainThreadDispatcher:Update()
+
+12:56:52.707-992: LuaState start
+LuaInterface.Debugger:Log(String)
+LuaInterface.LuaState:Start()
+GameFrame.LuaManager:Startup()
+System.Action:Invoke()
+<ActionWrapper>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+System.Action:Invoke()
+UnityMainThreadDispatcher:Update()
+
+12:56:52.711-992: Type GameBase.ProcedureManager not wrap to lua, push as GameBase.GameModuleBase, the warning is only raised once
+LuaInterface.Debugger:LogWarning(String)
+LuaInterface.LuaState:GetMissMetaReference(Type)
+LuaInterface.ToLua:PushSealed(IntPtr, T)
+GameFrame_LuaHelperWrap:GetGameManager(IntPtr)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaState:LuaLoadBuffer(Byte[], String)
+GameFrame.LuaManager:StartMain()
+GameFrame.LuaManager:Startup()
+System.Action:Invoke()
+<ActionWrapper>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+System.Action:Invoke()
+UnityMainThreadDispatcher:Update()
+
+Lua 5.3
+stack traceback:
+	Base/functions:114: in function 'log'
+	Main.lua:48: in function 'Main'
+GameFrame_UtilWrap:Log(IntPtr)
+LuaInterface.LuaDLL:lua_pcall(IntPtr, Int32, Int32, Int32)
+LuaInterface.LuaState:PCall(Int32, Int32)
+LuaInterface.LuaFunction:PCall()
+LuaInterface.LuaFunction:Call()
+GameFrame.LuaManager:StartMain()
+GameFrame.LuaManager:Startup()
+System.Action:Invoke()
+<ActionWrapper>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+System.Action:Invoke()
+UnityMainThreadDispatcher:Update()
+
+12:56:52.716-992: Type UnityEngine.Networking.UnityWebRequestAsyncOperation not wrap to lua, push as UnityEngine.AsyncOperation, the warning is only raised once
+LuaInterface.Debugger:LogWarning(String)
+LuaInterface.LuaState:GetMissMetaReference(Type)
+LuaInterface.ToLua:PushUserObject(IntPtr, Object)
+UnityEngine_Networking_UnityWebRequestWrap:SendWebRequest(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+com.adjust.sdk.Adjust:getAdid()
+com_adjust_sdk_AdjustWrap:getAdid(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+[S_API] SteamAPI_Init(): Loaded '/home/dennysesay/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 1954420
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561199050766623 [API loaded no]
+ticketBlob 14000000026cbb578e3cd7f81fb9ff400100100161e41f6518000000010000000200000043d157e9d7faaff7ae2b0e0001000000b200000032000000040000001fb9ff400100100174d21d004cb4f55964b2a8c000000000b1e41f6531943b650100bfc10a0000000000dd5c46edd1f21c1ddad19832ff15de4548996639fe432f793f48baf8bf4be8ee5aba68408d1b7ca751a088e56633642a44c7e8c9bd8a7b6d868cd1864c4be1742aa2f74d2a78509a70cf53a5d7896069090404f1a0569671f5b8693702c10dffe4c63dfbe5fd9e99212fb4f699ac74a1f8f5813b702ea00ee8f57769e5f7d761
+SteamManager:Awake()
+UnityEngine.GameObject:AddComponent()
+SteamManagerWrap:get_Instance(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+[Adjust]: SDK can only be used in Android, iOS, Windows Phone 8.1, Windows Store or Universal Windows apps.
+com.adjust.sdk.Adjust:getAdid()
+com_adjust_sdk_AdjustWrap:getAdid(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+sourceList[type]
+GameFrame.SoundManager:PlayAudio(AudioClip, Int32, Boolean, Boolean)
+GameFrame_SoundManagerWrap:PlayAudio(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.296-9: flowLog     login_start
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.297-9: flowLog     login_update
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.297-9: OnCheckVersion     3.115.226.82/users/checkVersion    101.80476504564    3
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.315-11: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.315-11: OnCheckVersion     13.112.183.79/users/checkVersion    101.88680511713    3
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.665-32: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.665-32: OnCheckVersion     https://aga.mahjong-jp.net/users/checkVersion    102.2368069049    3
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.815-41: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.815-41: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.998-52: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:53.998-52: OnCheckVersion     https://cn2aws.mahjong-jp.net/users/checkVersion    102.57014248334    3
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:54.265-68: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:54.331-72: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:54.365-74: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:54.415-77: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:55.260-97: Type UnityEngine.Font not wrap to lua, push as UnityEngine.Object, the warning is only raised once
+LuaInterface.Debugger:LogWarning(String)
+LuaInterface.LuaState:GetMissMetaReference(Type)
+LuaInterface.ToLua:PushSealed(IntPtr, T)
+UnityEngine_UI_TextWrap:get_font(IntPtr)
+LuaInterface.LuaDLL:tolua_update(IntPtr, Single, Single)
+LuaLooper:Update()
+
+12:56:55.263-97: flowLog     login_visit
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_update(IntPtr, Single, Single)
+LuaLooper:Update()
+
+12:56:55.269-97: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:55.270-97: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:55.270-97: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:55.273-98: flowLog     login_main_popup_display
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_update(IntPtr, Single, Single)
+LuaLooper:Update()
+
+12:56:55.274-98: flowLog     login_pull_sdk
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_update(IntPtr, Single, Single)
+LuaLooper:Update()
+
+12:56:55.441-108: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:55.775-128: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:55.775-128: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:55.791-129: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:55.858-133: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:56.225-155: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:56.225-155: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:56.275-158: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:56.341-162: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:56.358-163: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:56.391-165: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:56.392-165: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:56.541-174: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:57.175-212: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:57.191-213: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:57.425-227: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+12:56:57.658-241: flowLog     event_http_delay
+LuaInterface.Debugger:Log(String)
+LuaInterface.ToLua:Print(IntPtr)
+LuaInterface.LuaDLL:tolua_lateupdate(IntPtr)
+LuaLooper:LateUpdate()
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 7ff8237746c0 -> priority: 1 
+  Thread -> id: 7ff820f6f6c0 -> priority: 1 
+  Thread -> id: 7ff7fcbff6c0 -> priority: 1 
+  Thread -> id: 7ff7ebfff6c0 -> priority: 1 
+  Thread -> id: 7ff7eb7fe6c0 -> priority: 1 
+  Thread -> id: 7ff7eaffd6c0 -> priority: 1 
+  Thread -> id: 7ff7ea7fc6c0 -> priority: 1 
+  Thread -> id: 7ff7e9ffb6c0 -> priority: 1 
+Leave 'GameFrame.ProceGameInit' procedure.
+LogFormatAction:Invoke(String, Object[])
+GameFrame.ProceBase:OnLeave(IFsm`1, Boolean)
+GameFrame.ProceGameInit:OnLeave(IFsm`1, Boolean)
+GameBase.Fsm`1:Shutdown()
+GameBase.FsmManager:InternalDestroyFsm(Type)
+GameBase.ProcedureManager:Shutdown()
+GameBase.GameModuleManager:Shutdown()
+GameFrame.AppMain:OnDestroy()
+
+12:57:09.340-939: LuaState destroy
+LuaInterface.Debugger:Log(String)
+LuaInterface.LuaState:Dispose()
+GameFrame.LuaManager:Reset()
+GameBase.Fsm`1:Shutdown()
+GameBase.FsmManager:InternalDestroyFsm(Type)
+GameBase.ProcedureManager:Shutdown()
+GameBase.GameModuleManager:Shutdown()
+GameFrame.AppMain:OnDestroy()
+
+Uploading Crash Report
+NullReferenceException: Object reference not set to an instance of an object.
+  at LuaInterface.LuaFileUtils.Dispose () [0x00000] in <00000000000000000000000000000000>:0 
+  at LuaInterface.LuaState.Dispose () [0x00000] in <00000000000000000000000000000000>:0 
+  at GameFrame.LuaManager.Reset () [0x00000] in <00000000000000000000000000000000>:0 
+  at GameBase.Fsm`1[T].Shutdown () [0x00000] in <00000000000000000000000000000000>:0 
+  at GameBase.FsmManager.InternalDestroyFsm (System.Type type) [0x00000] in <00000000000000000000000000000000>:0 
+  at GameBase.ProcedureManager.Shutdown () [0x00000] in <00000000000000000000000000000000>:0 
+  at GameBase.GameModuleManager.Shutdown () [0x00000] in <00000000000000000000000000000000>:0 
+  at GameFrame.AppMain.OnDestroy () [0x00000] in <00000000000000000000000000000000>:0 
+
+Curl error 42: Callback aborted
+Curl error 42: Callback aborted

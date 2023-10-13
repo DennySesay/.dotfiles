@@ -1,0 +1,2 @@
+usage: legendary install <App Name> [options]
+legendary install: error: the following arguments are required: <App Name>

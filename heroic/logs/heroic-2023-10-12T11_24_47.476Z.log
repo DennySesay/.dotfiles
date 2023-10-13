@@ -1,0 +1,81 @@
+(13:24:47) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(13:24:47) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(13:24:47) INFO:    [Connection]:       Connectivity: check-online
+(13:24:47) INFO:    [Connection]:       Pinging external endpoints
+(13:24:47) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "name": "Widevine Content Decryption Module",
+    "status": "new",
+    "version": "4.10.2557.0"
+  }
+}
+(13:24:47) WARNING: [Backend]:          Protocol already registered.
+(13:24:47) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(13:24:47) INFO:    [Gog]:              Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/dennysesay/.config/heroic/gog_store/auth.json --version
+(13:24:47) INFO:    [Nile]:             Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(13:24:47) INFO:    [Connection]:       Connectivity: online
+(13:24:47) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(13:24:48) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(13:24:48) INFO:    [Backend]:          
+System Information:
+CPU: 16x AMD Ryzen 7 5800X 8-Core Processor
+Memory: 33.58 GB (used: 4.19 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA102 [GeForce RTX 3080 Lite Hash Rate]
+    IDs: D=2216 V=10de SD=1539 SV=10de
+    Driver: nouveau
+OS: Arch Linux 6.5.7-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.9.2 Boa Hancock
+  Legendary: 0.20.32 Dark Energy (hotfix #6)
+  gogdl: 0.7.3
+  Nile: 1.0.0 Jonathan Joestar
+
+(13:24:48) INFO:    [Backend]:          Loading Screen Ready
+(13:24:48) INFO:    [Frontend]:         Refreshing undefined Library
+(13:24:48) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(13:24:48) INFO:    [Legendary]:        Refreshing library...
+(13:24:48) INFO:    [Legendary]:        Refreshing Epic Games...
+(13:24:48) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(13:24:48) INFO:    [Backend]:          Frontend Ready
+(13:24:48) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(13:24:48) INFO:    [Gog]:              Found 0 game(s) to update
+(13:24:48) INFO:    [Backend]:          Checking for new Heroic Updates
+(13:24:48) INFO:    [Backend]:          Checking for current version changelog
+(13:24:48) INFO:    [Legendary]:        Checking for game updates: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(13:24:48) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(13:24:50) WARNING: [DXVKInstaller]:    No GPU with Vulkan 1.1 support found, DXVK will not work
+(13:24:50) INFO:    [Winetricks]:       Downloading Winetricks
+(13:24:50) INFO:    [Legendary]:        Found 0 games to update
+(13:24:50) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(13:24:50) INFO:    [Backend]:          Preventing display from sleep
+(13:24:50) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(13:24:50) INFO:    [Backend]:          Preventing machine to sleep
+(13:24:50) INFO:    [Backend]:          Stopping Power Saver Blocker
+(13:24:50) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(13:24:50) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(13:24:50) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(13:24:50) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(13:24:50) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(13:24:53) INFO:    [Backend]:          Starting the Download Queue
+(13:24:58) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(13:24:58) INFO:    [DXVKInstaller]:    dxvk already installed!
+(13:24:58) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(13:24:58) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(13:24:58) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(13:24:58) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 ORIG_LD_LIBRARY_PATH= XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /sbin/wine --language en
+(13:25:17) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(13:25:17) INFO:    [Frontend]:         Refreshing legendary Library
+(13:25:17) INFO:    [Legendary]:        Refreshing library...
+(13:25:17) INFO:    [Legendary]:        Refreshing Epic Games...
+(13:25:17) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(13:25:17) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party

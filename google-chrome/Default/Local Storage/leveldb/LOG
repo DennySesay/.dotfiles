@@ -1,0 +1,27 @@
+2023/10/13-03:12:29.969 4 Reusing MANIFEST /home/dennysesay/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/13-03:12:29.971 4 Recovering log #601
+2023/10/13-03:12:29.972 4 Reusing old log /home/dennysesay/.config/google-chrome/Default/Local Storage/leveldb/000601.log 
+2023/10/13-03:12:41.180 5 Level-0 table #605: started
+2023/10/13-03:12:41.182 5 Level-0 table #605: 39693 bytes OK
+2023/10/13-03:12:41.184 5 Delete type=0 #601
+2023/10/13-03:17:19.071 5 Level-0 table #607: started
+2023/10/13-03:17:19.083 5 Level-0 table #607: 401042 bytes OK
+2023/10/13-03:17:19.085 5 Delete type=0 #604
+2023/10/13-03:24:53.073 5 Level-0 table #609: started
+2023/10/13-03:24:53.076 5 Level-0 table #609: 35534 bytes OK
+2023/10/13-03:24:53.083 5 Delete type=0 #606
+2023/10/13-03:24:53.083 5 Compacting 4@0 + 1@1 files
+2023/10/13-03:24:53.097 5 Generated table #610@0: 3061 keys, 1567994 bytes
+2023/10/13-03:24:53.097 5 Compacted 4@0 + 1@1 files => 1567994 bytes
+2023/10/13-03:24:53.099 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-03:24:53.100 5 Delete type=2 #602
+2023/10/13-03:24:53.100 5 Delete type=2 #607
+2023/10/13-03:24:53.100 5 Delete type=2 #599
+2023/10/13-03:24:53.100 5 Delete type=2 #609
+2023/10/13-03:24:53.100 5 Delete type=2 #605
+2023/10/13-03:37:23.071 5 Level-0 table #612: started
+2023/10/13-03:37:23.073 5 Level-0 table #612: 39566 bytes OK
+2023/10/13-03:37:23.075 5 Delete type=0 #608
+2023/10/13-03:39:53.065 5 Level-0 table #614: started
+2023/10/13-03:39:53.076 5 Level-0 table #614: 19833 bytes OK
+2023/10/13-03:39:53.084 5 Delete type=0 #611

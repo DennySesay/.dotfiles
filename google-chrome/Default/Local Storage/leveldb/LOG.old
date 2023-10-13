@@ -1,0 +1,6 @@
+2023/10/13-03:02:26.799 4 Reusing MANIFEST /home/dennysesay/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/13-03:02:26.801 4 Recovering log #597
+2023/10/13-03:02:26.803 4 Reusing old log /home/dennysesay/.config/google-chrome/Default/Local Storage/leveldb/000597.log 
+2023/10/13-03:02:37.156 4 Level-0 table #602: started
+2023/10/13-03:02:37.158 4 Level-0 table #602: 40229 bytes OK
+2023/10/13-03:02:37.160 4 Delete type=0 #597

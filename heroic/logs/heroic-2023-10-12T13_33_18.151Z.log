@@ -1,0 +1,280 @@
+(15:33:38) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(15:33:38) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(15:33:38) INFO:    [Connection]:       Connectivity: check-online
+(15:33:38) INFO:    [Connection]:       Pinging external endpoints
+(15:33:38) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "name": "Widevine Content Decryption Module",
+    "status": "new",
+    "version": "4.10.2557.0"
+  }
+}
+(15:33:38) WARNING: [Backend]:          Protocol already registered.
+(15:33:38) INFO:    [Connection]:       Connectivity: online
+(15:33:38) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(15:33:38) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(15:33:38) INFO:    [Gog]:              Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/dennysesay/.config/heroic/gog_store/auth.json --version
+(15:33:38) INFO:    [Nile]:             Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(15:33:38) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(15:33:38) INFO:    [Backend]:          
+System Information:
+CPU: 16x AMD Ryzen 7 5800X 8-Core Processor
+Memory: 33.58 GB (used: 4.06 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA102 [GeForce RTX 3080 Lite Hash Rate]
+    IDs: D=2216 V=10de SD=1539 SV=10de
+    Driver: nouveau
+OS: Arch Linux 6.5.7-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.9.2 Boa Hancock
+  Legendary: 0.20.32 Dark Energy (hotfix #6)
+  gogdl: 0.7.3
+  Nile: 1.0.0 Jonathan Joestar
+
+(15:33:38) INFO:    [Backend]:          Loading Screen Ready
+(15:33:38) INFO:    [Frontend]:         Refreshing undefined Library
+(15:33:38) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(15:33:38) INFO:    [Legendary]:        Refreshing library...
+(15:33:38) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:33:38) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:33:38) INFO:    [Backend]:          Frontend Ready
+(15:33:38) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(15:33:38) INFO:    [Gog]:              Found 0 game(s) to update
+(15:33:38) INFO:    [Backend]:          Checking for new Heroic Updates
+(15:33:38) INFO:    [Backend]:          Checking for current version changelog
+(15:33:39) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:33:39) INFO:    [Legendary]:        Checking for game updates: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:33:40) WARNING: [DXVKInstaller]:    No GPU with Vulkan 1.1 support found, DXVK will not work
+(15:33:40) INFO:    [Winetricks]:       Downloading Winetricks
+(15:33:41) INFO:    [Legendary]:        Found 0 games to update
+(15:33:43) INFO:    [Backend]:          Starting the Download Queue
+(15:35:13) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(15:35:13) INFO:    [Backend]:          Preventing display from sleep
+(15:35:13) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(15:35:13) INFO:    [Backend]:          Preventing machine to sleep
+(15:35:13) INFO:    [Backend]:          Stopping Power Saver Blocker
+(15:35:13) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(15:35:13) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(15:35:13) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(15:35:13) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(15:35:13) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(15:35:19) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:35:19) INFO:    [DXVKInstaller]:    dxvk already installed!
+(15:35:19) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:35:19) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(15:35:19) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(15:35:19) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 ORIG_LD_LIBRARY_PATH= XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /sbin/wine --language en
+(15:35:30) INFO:    [Frontend]:         Refreshing wine downloader releases
+(15:35:30) INFO:    [WineDownloader]:   Updating wine versions info
+(15:35:30) INFO:    [WineDownloader]:   Fetching upstream information...
+(15:35:31) INFO:    [WineDownloader]:   wine versions updated
+(15:35:38) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(15:35:38) INFO:    [Frontend]:         Refreshing legendary Library
+(15:35:38) INFO:    [Legendary]:        Refreshing library...
+(15:35:38) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:35:38) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:35:38) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:35:44) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(15:35:44) INFO:    [Backend]:          Preventing display from sleep
+(15:35:44) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(15:35:44) INFO:    [Backend]:          Stopping Power Saver Blocker
+(15:35:44) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(15:35:44) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(15:35:44) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-8.17
+(15:35:44) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(15:35:44) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(15:35:45) ERROR:   [Backend]:          Aborting not possible. Could not find a matching abort controller for Sugar
+(15:35:45) INFO:    [Backend]:          Trying to kill Sugar
+(15:35:45) INFO:    [Backend]:          Killed Sugar
+(15:35:46) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:35:46) INFO:    [DXVKInstaller]:    dxvk already installed!
+(15:35:46) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:35:46) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(15:35:46) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.17!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(15:35:46) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 ORIG_LD_LIBRARY_PATH= XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /sbin/wine --language en
+(15:35:53) INFO:    [Backend]:          Sugar: Setting wineVersion to {"bin":"/usr/share/steam/compatibilitytools.d/proton/proton","name":"Proton - proton","type":"proton"}
+(15:36:05) INFO:    [Backend]:          Trying to kill Sugar
+(15:36:05) INFO:    [Backend]:          Killed Sugar
+(15:36:05) WARNING: [Backend]:          Required prefix files are missing, running `verifyWinePrefix` to create prefix
+(15:36:05) INFO:    [Backend]:          Checking if wine version exists: Proton - proton
+(15:36:05) INFO:    [Backend]:          Checking if wine version exists: Proton - proton
+(15:36:05) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(15:36:05) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(15:36:05) INFO:    [Frontend]:         Refreshing legendary Library
+(15:36:05) INFO:    [Legendary]:        Refreshing library...
+(15:36:05) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:36:05) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:36:05) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:36:06) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(15:36:06) INFO:    [Backend]:          Checking if wine version exists: Proton - proton
+(15:36:06) INFO:    [Backend]:          Stopping Power Saver Blocker
+(15:36:06) INFO:    [Backend]:          Checking if wine version exists: Proton - proton
+(15:36:06) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(15:36:06) INFO:    [Backend]:          Checking if wine version exists: Proton - proton
+(15:36:06) INFO:    [Backend]:          Checking if wine version exists: Proton - proton
+(15:36:06) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(15:36:09) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/dennysesay/.steam/steam STEAM_COMPAT_DATA_PATH=/home/dennysesay/Games/Heroic/Prefixes/default STEAM_COMPAT_INSTALL_PATH=/home/dennysesay/Games/Heroic/rocketleague WINE_FULLSCREEN_FSR=0 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/dennysesay XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --no-wine --wrapper " '/usr/share/steam/compatibilitytools.d/proton/proton' run" --language en
+(15:36:09) INFO:    [Backend]:          Checking if wine version exists: Proton - proton
+(15:36:09) DEBUG:   [Backend]:          Running Wine command: waitforexitandrun wineboot -k
+(15:36:19) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(15:36:19) INFO:    [Frontend]:         Refreshing legendary Library
+(15:36:19) INFO:    [Legendary]:        Refreshing library...
+(15:36:19) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:36:19) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:36:19) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:36:26) INFO:    [Backend]:          Sugar: Setting wineVersion to {"bin":"/home/dennysesay/.config/heroic/tools/proton/Proton-GE-latest/proton","name":"Proton - Proton-GE-latest","type":"proton"}
+(15:36:32) INFO:    [Backend]:          Sugar: Setting autoInstallDxvkNvapi to true
+(15:36:32) INFO:    [Backend]:          Sugar: Setting autoInstallDxvkNvapi to false
+(15:36:41) INFO:    [Backend]:          Sugar: Setting autoInstallDxvkNvapi to true
+(15:36:48) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(15:36:48) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(15:36:48) INFO:    [Backend]:          Stopping Power Saver Blocker
+(15:36:49) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(15:36:49) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(15:36:49) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(15:36:49) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(15:36:49) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(15:37:01) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/dennysesay/.steam/steam STEAM_COMPAT_DATA_PATH=/home/dennysesay/Games/Heroic/Prefixes/default STEAM_COMPAT_INSTALL_PATH=/home/dennysesay/Games/Heroic/rocketleague WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/dennysesay XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --no-wine --wrapper " '/home/dennysesay/.config/heroic/tools/proton/Proton-GE-latest/proton' run" --language en
+(15:37:12) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(15:37:12) INFO:    [Frontend]:         Refreshing legendary Library
+(15:37:12) INFO:    [Legendary]:        Refreshing library...
+(15:37:12) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:37:12) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:37:12) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:37:28) INFO:    [Backend]:          Sugar: Setting wineVersion to {"bin":"/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/bin/wine","name":"Wine - Wine-GE-latest","type":"wine","lib":"/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64","lib32":"/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib","wineserver":"/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/bin/wineserver"}
+(15:37:33) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(15:37:33) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:37:33) INFO:    [Backend]:          Stopping Power Saver Blocker
+(15:37:34) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:37:34) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:37:34) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:37:34) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(15:38:19) INFO:    [Backend]:          Created/Updated Wineprefix at /home/dennysesay/Games/Heroic/Prefixes/default
+(15:38:19) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:38:19) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:38:19) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:38:19) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(15:38:21) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:38:21) INFO:    [DXVKInstaller]:    dxvk already installed!
+(15:38:21) INFO:    [DXVKInstaller]:    installing dxvk-nvapi on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:38:21) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:38:21) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:38:21) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:38:21) WARNING: [DXVKInstaller]:    Could not find nvngx.dll for DLSS!
+(15:38:21) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v nvapi64-tests.exe /d native,builtin /f
+(15:38:21) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v nvapi64 /d native,builtin /f
+(15:38:21) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v nvapi /d native,builtin /f
+(15:38:21) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:38:21) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(15:38:21) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:38:21) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CLASSES_ROOT\com.epicgames.launcher
+(15:39:45) ERROR:   [Backend]:          Aborting not possible. Could not find a matching abort controller for Sugar
+(15:39:45) INFO:    [Backend]:          Trying to kill Sugar
+(15:39:45) INFO:    [Backend]:          Killed Sugar
+(15:39:45) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:39:45) INFO:    [DXVKInstaller]:    dxvk already installed!
+(15:39:45) INFO:    [DXVKInstaller]:    installing dxvk-nvapi on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:39:45) INFO:    [DXVKInstaller]:    dxvk-nvapi already installed!
+(15:39:45) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:39:45) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(15:39:45) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 DXVK_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64/gstreamer-1.0:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib/gstreamer-1.0 WINEDLLPATH=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64/wine:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib/wine XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/bin/wine --language en
+(15:39:46) INFO:    [Backend]:          Trying to kill Sugar
+(15:39:46) INFO:    [Backend]:          Killed Sugar
+(15:39:46) INFO:    [Legendary]:        Abort command "HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 DXVK_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64/gstreamer-1.0:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib/gstreamer-1.0 WINEDLLPATH=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64/wine:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib/wine XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/bin/wine --language en"
+(15:39:46) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(15:39:46) INFO:    [Frontend]:         Refreshing legendary Library
+(15:39:46) INFO:    [Legendary]:        Refreshing library...
+(15:39:46) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:39:46) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:39:46) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:39:46) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(15:39:46) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:39:46) INFO:    [Backend]:          Stopping Power Saver Blocker
+(15:39:46) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:39:46) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:39:46) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:39:46) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(15:39:49) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:39:49) INFO:    [DXVKInstaller]:    dxvk already installed!
+(15:39:49) INFO:    [DXVKInstaller]:    installing dxvk-nvapi on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:39:49) INFO:    [DXVKInstaller]:    dxvk-nvapi already installed!
+(15:39:49) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:39:49) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(15:39:49) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 DXVK_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64/gstreamer-1.0:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib/gstreamer-1.0 WINEDLLPATH=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64/wine:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib/wine XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/bin/wine --language en
+(15:40:00) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(15:40:00) INFO:    [Frontend]:         Refreshing legendary Library
+(15:40:00) INFO:    [Legendary]:        Refreshing library...
+(15:40:00) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:40:00) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:40:00) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:40:49) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(15:40:49) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:40:49) INFO:    [Backend]:          Stopping Power Saver Blocker
+(15:40:50) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:40:50) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:40:50) INFO:    [Backend]:          Checking if wine version exists: Wine - Wine-GE-latest
+(15:40:50) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(15:40:53) INFO:    [DXVKInstaller]:    installing dxvk on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:40:53) INFO:    [DXVKInstaller]:    dxvk already installed!
+(15:40:53) INFO:    [DXVKInstaller]:    installing dxvk-nvapi on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:40:53) INFO:    [DXVKInstaller]:    dxvk-nvapi already installed!
+(15:40:53) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/dennysesay/Games/Heroic/Prefixes/default
+(15:40:53) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(15:40:53) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 DXVK_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64/gstreamer-1.0:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib/gstreamer-1.0 WINEDLLPATH=/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib64/wine:/home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/lib/wine XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /home/dennysesay/.config/heroic/tools/wine/Wine-GE-latest/bin/wine --language en
+(15:41:04) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(15:41:04) INFO:    [Frontend]:         Refreshing legendary Library
+(15:41:04) INFO:    [Legendary]:        Refreshing library...
+(15:41:04) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:41:04) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:41:04) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(15:41:06) INFO:    [Backend]:          Sugar: Setting wineVersion to {"bin":"/home/dennysesay/.config/heroic/tools/proton/Proton-GE-latest/proton","name":"Proton - Proton-GE-latest","type":"proton"}
+(15:41:10) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(15:41:10) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(15:41:10) INFO:    [Backend]:          Stopping Power Saver Blocker
+(15:41:11) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(15:41:11) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(15:41:11) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(15:41:11) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(15:41:11) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(15:41:15) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/dennysesay/.steam/steam STEAM_COMPAT_DATA_PATH=/home/dennysesay/Games/Heroic/Prefixes/default STEAM_COMPAT_INSTALL_PATH=/home/dennysesay/Games/Heroic/rocketleague WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/dennysesay XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --no-wine --wrapper " '/home/dennysesay/.config/heroic/tools/proton/Proton-GE-latest/proton' run" --language en
+(15:41:26) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(15:41:26) INFO:    [Frontend]:         Refreshing legendary Library
+(15:41:26) INFO:    [Legendary]:        Refreshing library...
+(15:41:26) INFO:    [Legendary]:        Refreshing Epic Games...
+(15:41:26) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(15:41:26) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(17:23:08) INFO:    [Connection]:       Connectivity: offline
+(17:23:08) INFO:    [Connection]:       Connectivity: check-online
+(17:23:08) INFO:    [Connection]:       Pinging external endpoints
+(17:23:08) INFO:    [Connection]:       All ping requests failed:
+(17:23:08) INFO:    [Connection]:       AggregateError: All promises were rejected
+(17:23:13) INFO:    [Connection]:       Pinging external endpoints
+(17:23:13) INFO:    [Connection]:       Connectivity: online
+(23:01:00) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(23:01:00) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(23:01:00) INFO:    [Backend]:          Stopping Power Saver Blocker
+(23:01:00) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(23:01:00) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(23:01:00) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(23:01:00) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(23:01:00) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(23:01:05) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/dennysesay/.steam/steam STEAM_COMPAT_DATA_PATH=/home/dennysesay/Games/Heroic/Prefixes/default STEAM_COMPAT_INSTALL_PATH=/home/dennysesay/Games/Heroic/rocketleague WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/dennysesay XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --no-wine --wrapper " '/home/dennysesay/.config/heroic/tools/proton/Proton-GE-latest/proton' run" --language en
+(23:01:17) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(23:01:17) INFO:    [Frontend]:         Refreshing legendary Library
+(23:01:17) INFO:    [Legendary]:        Refreshing library...
+(23:01:17) INFO:    [Legendary]:        Refreshing Epic Games...
+(23:01:17) INFO:    [Legendary]:        Game list updated, got 7 games & DLCs
+(23:01:18) INFO:    [Legendary]:        Running command: XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party

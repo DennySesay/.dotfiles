@@ -1,0 +1,5 @@
+2023/10/05-14:41:44.459 218d4 Creating DB /home/dennysesay/.config/Morgen/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2023/10/05-14:41:44.462 218d4 Reusing MANIFEST /home/dennysesay/.config/Morgen/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/10/05-14:53:19.707 218d4 Level-0 table #5: started
+2023/10/05-14:53:19.719 218d4 Level-0 table #5: 899202 bytes OK
+2023/10/05-14:53:19.721 218d4 Delete type=0 #3

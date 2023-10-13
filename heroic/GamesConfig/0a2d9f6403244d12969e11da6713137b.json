@@ -1,0 +1,25 @@
+{
+  "0a2d9f6403244d12969e11da6713137b": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "language": "",
+    "wineVersion": {
+      "bin": "/sbin/wine",
+      "name": "Wine Default - wine-8.17",
+      "type": "wine",
+      "wineserver": "/sbin/wineserver"
+    },
+    "winePrefix": "/home/dennysesay/Games/Heroic/Prefixes/default",
+    "wineCrossoverBottle": "Heroic"
+  },
+  "version": "v0",
+  "explicit": true
+}

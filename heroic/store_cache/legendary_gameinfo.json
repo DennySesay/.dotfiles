@@ -1,0 +1,243 @@
+{
+	"__timestamp": {
+		"cbd5b3d310a54b12bf3fe8c41994174f": "Thu Oct 12 2023 08:08:53 GMT+0200 (Central European Summer Time)",
+		"50118b7f954e450f8823df1614b24e80": "Thu Oct 12 2023 08:09:03 GMT+0200 (Central European Summer Time)",
+		"b04882669b2e495e9f747c8560488c93": "Thu Oct 12 2023 08:09:35 GMT+0200 (Central European Summer Time)",
+		"9773aa1aa54f4f7b80e44bef04986cea": "Thu Oct 12 2023 08:09:57 GMT+0200 (Central European Summer Time)"
+	},
+	"cbd5b3d310a54b12bf3fe8c41994174f": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-valorant-riotgames-s2-1200x1600-d4af29b2bc46.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Riot Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Riot Games",
+			"description": "# DEFY THE LIMITS FOR FREE IN VALORANT\n\nFIGHT AROUND THE WORLD\nBlend your style and experience on a global, competitive stage. Attack and defend your side using sharp gunplay and tactical abilities. And, with one life per-round, you'll have to think faster than your opponent if you want to survive. \n\nCREATIVITY IS YOUR GREATEST WEAPON\nMore than guns and bullets, you’ll choose an Agent armed with adaptive, swift, and lethal abilities that create opportunities to let your gunplay shine. Each map is purpose-built for team strategies, spectacular plays, and clutch moments. Make the plays others will imitate for years to come.\n",
+			"shortDescription": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork. ",
+			"title": "VALORANT",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7/8",
+				"recommended": "Windows 10 (64-Bit)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core 2 Duo E8400 (Intel), Athlon 200GE (AMD)",
+				"recommended": "Intel i3-4150 (Intel), Ryzen 3 1200 (AMD)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "RAM 4GB",
+				"recommended": "RAM 4GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "Intel HD 4000, Radeon R5 200",
+				"recommended": "GeForce GT 730, Radeon R7 240"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/valorant"
+	},
+	"50118b7f954e450f8823df1614b24e80": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-s2-1200x1600-c226d30a9c0d.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Mediatonic",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Epic Games",
+			"description": "# About\nYou’re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community. \n\nCreate your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.\n\nCompetitive & Cooperative: Tumble between competitive free-for-alls and cooperative challenges—or take on the Blunderdome with up to 3 friends!\n\nPlay with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.\n\nEver-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.",
+			"shortDescription": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
+			"title": "Fall Guys",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10 64bit",
+				"recommended": "Windows 10 64bit"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core i5 or AMD equivalent",
+				"recommended": "Intel Core i5 or AMD equivalent"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB RAM",
+				"recommended": "8 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "2 GB available space",
+				"recommended": "2 GB available space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GTX 660 or AMD Radeon HD 7950",
+				"recommended": "NVIDIA GTX 660 or AMD Radeon HD 7950"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Other",
+				"minimum": "Broadband Internet connection",
+				"recommended": "Broadband Internet connection"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/fall-guys"
+	},
+	"b04882669b2e495e9f747c8560488c93": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/trackmania-royal-keyart-1200x1600-1200x1600-d623bb2598ee.png",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Ubisoft Nadeo",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Ubisoft",
+			"description": "# STARTER ACCESS\nEnjoy a fun racing experience for free with regularly updated content and collectable rewards.\n\n# NO AI, REAL PLAYERS' GHOSTS\nEven solo, race against other players’ ghosts that are close to your level to help you improve progressively, at your own pace.\n\n# REGULARLY UPDATED CONTENT\n25 official tracks, updated every 3 months and playable solo, online and locally to practice your racing skills.\n\n# PROGRESSION\nYou can either play by yourself and enjoy the drive, or collect medals and assess your skills with regional and international rankings.",
+			"shortDescription": "Trackmania, the racing franchise from Ubisoft Nadeo, is back with the most compelling remake of Trackmania Nations.",
+			"title": "Trackmania",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10",
+				"recommended": "Windows 10"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "CPU",
+				"minimum": "Intel Core i5-2500k, AMD FX-6100",
+				"recommended": "Intel Core i5-4690K, AMD Ryzen5 1500X"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "GPU",
+				"minimum": "NVIDIA GeForce GTX 660 or AMD Radeon R9 270X",
+				"recommended": "NVIDIA GeForce GTX 970 or AMD Radeon RX 480"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Video memory",
+				"minimum": "2GB",
+				"recommended": "4GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "RAM",
+				"minimum": "8GB",
+				"recommended": "8GB (Dual-channel setup)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "2GB available hard drive space",
+				"recommended": "2GB available hard drive space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "DirectX"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Sound",
+				"minimum": "DirectX 9.0c compatible sound card with latest drivers",
+				"recommended": "DirectX 9.0c compatible sound card with latest drivers"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Peripherals",
+				"minimum": "Windows-compatible keyboard and mouse required, XInput based controller (Xbox 360 / Xbox One / PS4)",
+				"recommended": "Windows-compatible keyboard and mouse required, XInput based controller (Xbox 360 / Xbox One / PS4)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Supported GPU Drivers at release",
+				"minimum": "451.48 Nvidia | 20.5.1 AMD",
+				"recommended": "451.48 Nvidia | 20.5.1 AMD"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/trackmania"
+	},
+	"9773aa1aa54f4f7b80e44bef04986cea": {
+		"about": {
+			"image": {
+				"altText": "Rocket League | Download & Play Rocket League for Free on PC – Epic Games Store",
+				"src": "https://cdn2.unrealengine.com/egs-rocketleague-psyonixllc-s2-1200x1600-2a2a9b2049f3.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Psyonix LLC",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Psyonix LLC",
+			"description": "PLAY ROCKET LEAGUE FOR FREE!\n\nDownload and compete in the high-octane hybrid of arcade-style soccer and vehicular mayhem! customize your car, hit the field, and compete in one of the most critically acclaimed sports games of all time! Download and take your shot!\n\nHit the field by yourself or with friends in 1v1, 2v2, and 3v3 Online Modes, or enjoy Extra Modes like Rumble, Snow Day, or Hoops. Unlock items in Rocket Pass, climb the Competitive Ranks, compete in Competitive Tournaments, complete Challenges, enjoy cross-platform progression and more! The field is waiting. Take your shot! \n\n# New Challenges\nComplete Weekly and season-long Challenges to unlock customization items for free!\n\n![rl_s1_section_challenges.jpg](https://cdn2.unrealengine.com/rl-s1-section-challenges-3840x2160-073994219.jpg)\n\n# Tournaments\nFeel the competitive energy! Join free Tournaments and compete all season against teams at your Rank! Win and earn new rewards! \n\n![rl_s12 tournament](https://cdn2.unrealengine.com/rl-s12-tour-d-16-9-3840x2160-9bc111ad7ab4.jpg)\n\n# In-Game Events and Limited Time Modes\nFrom Haunted Hallows to Frosty Fest, enjoy limited time events that feature festive in-game items that can be unlocked by playing online! Keep on the lookout for Limited Time Modes and arenas.\n\n![rl_home_f2p-launch_event.jpg](https://cdn2.unrealengine.com/rl-home-f2p-launch-event-3840x2160-073793665.jpg)\n\n# Cross-Platform Progression\nShare your Rocket League Inventory, Competitive Rank, and Rocket Pass Tier on any connected platform!\n\n![rl_home_f2p-launch_cross.jpg](https://cdn2.unrealengine.com/rl-home-f2p-launch-cross-3840x2160-073994250.jpg)\n\n# Item Shop & Blueprints\nMake your car your own with nearly endless customization possibilities! Get in-game items for completing challenges, browse the Item Shop, or build Blueprints for premium content for your car. \n\n![rl_s6_section_keyart](https://cdn2.unrealengine.com/rl-playerschoice-bundle-3840x2160-723248b32611.jpg)",
+			"shortDescription": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+			"title": "Rocket League®",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7 (64 bit) or Newer (64 bit) Windows OS",
+				"recommended": "Windows 7 (64 bit) or Newer (64 bit) Windows OS"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "2.5 GHz Dual core",
+				"recommended": "3.0+ GHz Quad core"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4GB",
+				"recommended": "8GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "20GB",
+				"recommended": "20GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "DirectX 11",
+				"recommended": "DirectX 11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GeForce 760, AMD Radeon R7 270X, or better",
+				"recommended": "NVIDIA GeForce GTX 1060, AMD Radeon RX 470, or better"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/rocket-league"
+	}
+}

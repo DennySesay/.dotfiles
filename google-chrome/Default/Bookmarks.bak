@@ -1,0 +1,137 @@
+{
+   "checksum": "a4f3370a19e5902399fd88d44a132ae7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13232194752217517",
+            "date_last_used": "13313585702162414",
+            "guid": "aa57a869-1176-46fc-a79a-21d080f45108",
+            "id": "5",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13232194752215094",
+            "date_last_used": "13341581661503573",
+            "guid": "c7160250-6a37-4317-865b-6acba05ffd13",
+            "id": "6",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13232194752216368",
+            "date_last_used": "13341426404146907",
+            "guid": "cbc5ce49-1a3e-4b22-8973-f380009b9148",
+            "id": "7",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13307387075262876",
+            "date_last_used": "0",
+            "guid": "6d8314c1-2021-4c65-bf25-2b075a2a4e25",
+            "id": "8",
+            "name": "Jisho",
+            "type": "url",
+            "url": "https://jisho.org/"
+         }, {
+            "date_added": "13312285864157117",
+            "date_last_used": "13341534191480435",
+            "guid": "7aea8880-f10e-42cc-8993-a9e5ec1f830a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WaniKani",
+            "type": "url",
+            "url": "https://www.wanikani.com/dashboard"
+         }, {
+            "date_added": "13308175548269839",
+            "date_last_used": "13310070485437918",
+            "guid": "9378df98-e47f-49b2-92c3-ac0026bf49a1",
+            "id": "10",
+            "name": "Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/"
+         }, {
+            "date_added": "13312469332559679",
+            "date_last_used": "13314642528425495",
+            "guid": "1211ac19-1fbc-4706-8eda-97dd1eacbaa3",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Keika",
+            "type": "url",
+            "url": "https://keikajp.web.app/"
+         }, {
+            "date_added": "13307480844691238",
+            "date_last_used": "13341251526549070",
+            "guid": "3a64a8b5-d78b-4fba-a6d6-e4432e63b8a1",
+            "id": "12",
+            "name": "Monkeytype",
+            "type": "url",
+            "url": "https://monkeytype.com/"
+         }, {
+            "date_added": "13326918697254826",
+            "date_last_used": "13341270434957632",
+            "guid": "8467cba9-e136-4700-911d-3fdf370aee5b",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13326324512885758",
+            "date_last_used": "0",
+            "guid": "41e98b22-e9f9-49c4-b5ac-6f01c184722d",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chips Angebote online kaufen | Walkers, Lays, Sensations, Doritos | premiumCHIPS.de",
+            "type": "url",
+            "url": "https://www.premiumchips.de/chips-angebote-mhd"
+         } ],
+         "date_added": "13340973949192607",
+         "date_last_used": "0",
+         "date_modified": "13326918697254826",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13340973949192608",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13205852769176136",
+            "date_last_used": "0",
+            "guid": "af0d00f7-cadf-4e17-91a0-9af6553aa062",
+            "id": "15",
+            "name": "vıvo | Watch \"Naruto.Shippuden.E028.GerDub.mp4\"",
+            "type": "url",
+            "url": "https://vivo.sx/f8076fb3e3"
+         } ],
+         "date_added": "13340973949192609",
+         "date_last_used": "0",
+         "date_modified": "13205852769176136",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu0BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgkAiR9ugQcGACEAiR9ugQcGADIYChYIAhGDxut9gQcGABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJeN/rfYEHBgAReN/rfYEHBgAp/XbsfYEHBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAHtp4gQcGABEAHtp4gQcGACmx3Ot9gQcGADCAvOjGl/CBA7oBAggBEgAqGG1hTmZuSitkV05VTDIxS3JHcHEwaGc9PUgDEuwBCAkS5wEKHGN2NHE4Y1NlUEtPNmROVXEyMkpDaFJiZFJhND0SZlo6QURxdEFadzArUlo4dGFBMkxDWkNjTllMSHFLRjhoS2U0TmZxNUxHelY4bjRDQTBLTjBPeGpGaDZRMTBGQ2N2ZGloTk90bEVtZFVNSWhRN2ljWE4zc1Q5bG43NW9PZERUOHc9PRgAIAIoAjCTn9Cj1d6BAzjdke6KxTBA64DD+q8xShxnT2wwTXc1aTdFRERicjVkU09NVmJXUFJGKzQ9Wh8iHd9KaTdFOE83VW8xSjhIWk1QYWJqNWNDamtITE09ZQgpmlsSrQIIBhKoAgocblRVY0hrZTJkbXVRUlFPcFcxSEVHQmdzYXc0PRKmAVo6QURxdEFad3c2UnEwaC9HYXRScDBmdTZjYTJuOWJzOVpaM2NEQitjTko1SlJBZmpiNFE1L1c3bTA5bGZXd0lNZjBNYlNOd2ZZWG9ZQnNKTGJiUWx2aGI5VHJpd3Z5czI2NHZWTXc1QUEvOStyZm54MENMaXpEUUIyU1BWai9ldjlUY2RqN1VlbjVJcFZjOXhiMjhXSXVvT3BaUklCTXg4bnJRPT0YACACKAIwk5/Qo9XegQM4wrfQ3JouQOqAw/qvMUocWDVlaFU4ZVhFaFR1L3RPTXh0N1g0ZkxDNU9rPVofIh3CcG44V2tXVHhwbFFwOVVBMTVQemoxYkJiZmtRPWWLoIzREuwBCAwS5wEKHDVWUXcxMFUxeUxVUlZUOVQ1VWsyYStMRUZLZz0SZlo6QURxdEFadzArUlo4dGFBMkxDWkNjTllMSHFLRk5iOFBHQ21PakFPQkF6aUdLNHc5c3F5RVVGZVp6cHBlMUtTbWhKVFBwbnFOV0Zub1RsOXZDeG1RWDFLRkY4cFAvbk1xdUE9PRgAIAQoBDCO5rCu3uaBAziTg9OXszBA3Prh/rAxShxGMHR6LzVkVkpldEpaUUdxRVhkczZmenBROFk9Wh8iHe5pMTk4YjQxdWRPeHJLbURJT2Zma05rMDE1V1k9ZTfJSDASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3SE9aRk9hRm1MOTlEWWlYWHBTcm45U29xYmg5MnRaeWliK2wxblg1bTR1eTZ2RDBBbDlnVGxuRlZtWDdMeW9mWmcvZ0hSGAAgACgAMMHQ5ZnV3oEDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASrAIIDxKnAgocTkpHODhpVE1vUUhwMUN4b0dFWTJwOVF1eU9BPRKmAVo6QURxdEFad3c2UnEwaC9HYXRScDBmdTZjYTJuOS9MYks1ZWJXZjV1a2E0RGlkOWZ1TEx3NzIzMTJyNnJpMXE2U2F1K2hDZWd2cWZBdDczQStDbVpFQmRvWWxVazlzcGZNRWswRzBYOStwOGNNblpRbkZRekVJanNNUG9qQTBxcHdrZkxKSCtUYklkOTU5WXRBUmN4aWNkUTV6ak5rSm1hNlBBPT0YACAAKAAwybnku779/QI4ocfNy7gtQKHHzcu4LUocVzRtME1pUjdlYzBXbWlkd0ZWOVpET2QyZjFNPVoeIhxzQ3V0WnBQYVZ4MnpjaUg0T3k4QVY3S3pZUFk9ZQAAAAASrQIIBxKoAgocaURJamlNSE0vYkY4RUd3WHVuV2VWekh2Vi9BPRKmAVo6QURxdEFad3c2UnEwaC9HYXRScDBmdTZjYTJuOWJzOVpaM2NEQitjTko1SlJBZmpiNFp4cHJDUjk5UHh6RHBSK3hNaUJ3NEJTOHZycVo5ZDlCMnFISVZicm9Qc0kxZzV4QmtMaTZBLzNtTmNyWEQvWkJVUko4M1FXN1dWQWZJRDJkaEtHUEh1QmRYdXNRYXdRa2NOMjV1R1dxRlVUUXRnekdRPT0YACACKAIwk5/Qo9XegQM4w7fQ3JouQOqAw/qvMUocd21xVVVTQjV1dTFySUJrb090bnBIZHhsenRBPVofIh3Ld3d2bkpPblNYU0JUYlZ3L0xjaHNlR1pDYlFZPWU4+TkzEuwBCAgS5wEKHFNRTG0xK25VRlZHYU9Oc0xKNm4xQmNiNWUzZz0SZlo6QURxdEFadzArUlo4dGFBMkxDWkNjTllMSHFLRmE3WmxZQlVyWmg0UzZVK3lrVVB1aTZqRGEvbmtVQmNSRnh6cXAzb2d5K3NOa2l4Mm5QT3dlQlNWQ21qRGZWdGZlaVllQVE9PRgAIAIoAjCTn9Cj1d6BAzi/5ffqsjBA64DD+q8xShxZdW9ldkhSR3YyNndHdWpoOVFjbHA2cW5Zc289Wh8iHd1ieEd6RGlDai9Db2l5TXVhY2JVeHJSSGRPYzA9ZYArznYS7AEICxLnAQocNUwzeU9YQ0ppZE9QY1VjOW5oVlVhY2NGcis0PRJmWjpBRHF0QVp3MCtSWjh0YUEyTENaQ2NOWUxIcUtGZUNYTjZsNlNmT3gxbU4vZ1VobytMNEI5ZENDdWcvaDRqU01QRnBwR0pGeE10OGJFQklUQUh6aFpLVzFjQUd5NWNJTHcvdz09GAAgAigCMJOf0KPV3oEDONCUrOLFMEDrgMP6rzFKHDBrWnhsZmJ5cVFZYVlaWDE3R0NveUV3U1JEdz1aHyId5zJvU0w0NVpHUFBWNHZWKzl5NzUzS0gwVDcyUT1l1RuUsxLsAQgOEucBChxEWndLREZiOGxPZkM2MzMzb3Y5MWRodUt0b1k9EmZaOkFEcXRBWncwK1JaOHRhQTJMQ1pDY05ZTEhxS0ZLcTVjVndoWkYxZnpqRTIxTS9qN2ozZS9mS2FKZHdLZ1NkYXRCckt1cmIxekw0OVFFZXF1Ym14MW5CM200T2RMUEp6NkJ3PT0YACACKAIwk5/Qo9XegQM4g6GBsfkwQPSAw/qvMUocZnNXY1JRRzk1NUNyOEh2dzZZYk1lYlhGSURJPVofIh33bWIzVUVYSU5xWHJUZHA1RWNlc3RyK0pmaDdjPWV7Pr51EuwBCA0S5wEKHHlNaUZaUTNIblJHcWgwTWRmalJMODRYa1Y2dz0SZlo6QURxdEFadzArUlo4dGFBMkxDWkNjTllMSHFLRlRtbjR0Z3UxdGhxRXVmSHFBTUpNTUJUTncxaGZNV0YxcU5CclRPdHVXRmN4cHpHWkdOWHJYSWd2aERBeVhUNm9HRkg1bVE9PRgAIAIoAjCTn9Cj1d6BAzinsqvM+zBA9IDD+q8xShxDc0h1dkt2NlVEd1JQVDZvY2RVemFlN1IwV2s9Wh8iHfJEd2J1aEdwbVkrakVLQ3VyZWs2V2tBMlhraTg9ZV1Hj4MSrQIIBRKoAgocUHhMR21ZUTNWc2pxMjJQQ3Z2NmkzR0JNUTNZPRKmAVo6QURxdEFad3c2UnEwaC9HYXRScDBmdTZjYTJuOWJzOVpaM2NEQitjTko1SlJBZmpiNGFMNVFVKzVneGRnbk8rcWlwSUdPZVg0WFFlM2VQQ0ZabkdSaVhVT0NFVm94THNLczJCY09yZkNMVGMvb2lWTyszSWh3VE9LU1NheVZkb1M2RjQ5U3phaUxDTXFHaUZreHVTQ0NFVTE3a3BXWFNDV3BBPT0YACACKAIwk5/Qo9XegQM4w7fQ3JouQOqAw/qvMUocSTBKRGVzZmcxMUMvbStFRXk3VFhxc3VtaWVvPVofIh26OUVaRWpZTEUzRGFnTjEwOURyRGVlb1lQaW9FPWU9bIUREuwBCAoS5wEKHFgrTWtXaittTENvQVpqMjhkVjRvcHRXNnFzaz0SZlo6QURxdEFadzArUlo4dGFBMkxDWkNjTllMSHFLRlFzN2E4WjhDakVUOWpDc3lYbUZ0NFp6UjFZZCtmUUZnVWpoRS82VUdGbDltbG1uS1FZcXB4cklCL3J2YnBKMkFTNU9qQnc9PRgAIAIoAjCTn9Cj1d6BAzjurvTitTBA64DD+q8xShx6N2lqRm9UYmJsSEZBN0FRZ0FWS21vbG5haDQ9Wh8iHeFzNE9mNUNPWFpTdWEwMEF6djU2MUtGQmgvOHM9ZeOAymoSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp4NGtmdmtrdDlUaUw2Ym1wMWdHeHZVaFZTYXY5MlJXbGQ1R0lZTzBLVkkyQXNiSzR3bStXbXdRQVp4MldBY1NLQ3M1YnJLdVJuUWt3TDBTclNpeVVsTVVybnIzUT09GAAgACgAMMHQ5ZnV3oEDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp3enRtMzNiazJKY3RGaThHa0FTMEdYZjkvajA4SXowYndUZWJmUGx6b0oxZUNwMnNGTGdSWHo3dkF3MGtZRXl4SjAwVzhxU3g1bHF4SmhoWGR1UVd3ZmI2Z3BwUT09GAAgACgAMMHQ5ZnV3oEDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAwATgA",
+   "version": 1
+}

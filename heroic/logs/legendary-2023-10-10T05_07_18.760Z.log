@@ -1,0 +1,311 @@
+[10/10/2023, 7:07:19 AM] XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.32", codename "Dark Energy (hotfix #6)"
+[10/10/2023, 7:07:19 AM] XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[10/10/2023, 7:07:19 AM] XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_4919)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-26.20-CL-28096793-Windows)
+ * Honkai Impact 3rd (App name: 0dc22b543a40440fab5a98d1e40c02c1 | Version: 2.25.2)
+ * MultiVersus (App name: 711c5e95dc094ca58e5f16bd48e751d6 | Version: 80480)
+ * Rocket League® (App name: Sugar | Version: BC2_Update45+430366)
+ * Trackmania (App name: Pigeon | Version: 1.3)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * VALORANT (App name: 602eb4abc8764c87b7f2607a1ef8c18e | Version: 4352238-29145)
+
+Total: 7
+
+Legendary update available!
+- New version: 0.20.33 - "Undue Alarm"
+- Release summary:
+ [*] Improved handling of SDL changes
+ [*] Added safeguards to prevent two simultaneous instances from corrupting the database
+ [*] Added support for running uninstallers
+ [*] More gracefully handles account errors
+See full changelog for additional details.
+- Release URL: https://legendary.gl/release/0.20.33
+
+- Download URL: https://legendary.gl/release/download/0.20.33/legendary
+[10/10/2023, 7:07:32 AM] HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= WINEPREFIX=/home/dennysesay/Games/Heroic/Prefixes/default WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=0 WINEESYNC=1 WINEFSYNC=1 ORIG_LD_LIBRARY_PATH= XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --wine /sbin/wine --language en
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching Sugar...
+
+Legendary update available!
+- New version: 0.20.33 - "Undue Alarm"
+- Release summary:
+ [*] Improved handling of SDL changes
+ [*] Added safeguards to prevent two simultaneous instances from corrupting the database
+ [*] Added support for running uninstallers
+ [*] More gracefully handles account errors
+See full changelog for additional details.
+- Release URL: https://legendary.gl/release/0.20.33
+
+- Download URL: https://legendary.gl/release/download/0.20.33/legendary
+002c:err:wineboot:process_run_key Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (126).
+007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+007c:fixme:hid:handle_IRP_MN_QUERY_ID Unhandled type 00000005
+00cc:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+00cc:err:winediag:ntlm_check_version ntlm_auth was not found. Make sure that ntlm_auth >= 3.0.25 is in your path. Usually, you can find it in the winbind package of your distribution.
+00cc:err:ntlm:ntlm_LsaApInitializePackage no NTLM support, expect problems
+info:  Game: RocketLeague.exe
+info:  DXVK: v2.3
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x2d4ad3f40
+info:  Built-in extension providers:
+info:    Win32 WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+00cc:err:vulkan:wine_vkCreateInstance Failed to create instance, res=-9
+err:   DxvkInstance::createInstance: Failed to create Vulkan 1.1 instance
+Warning, Command line -d3d11 set, but D3D11 is not supported on this machine.  Will fallback to older API.
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+[10/10/2023, 7:07:37 AM] XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/dennysesay/Games/Heroic/Prefixes/default
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+[10/10/2023, 7:07:37 AM] XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Sugar --json --platform Windows
+[10/10/2023, 7:07:37 AM] XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Sugar --json --platform Windows
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+[cli] INFO: Using prefix "/home/dennysesay/Games/Heroic/Prefixes/default"
+[cli] INFO: No Legendary-managed installation found.
+[cli] INFO: Found available Overlay installations in:
+[cli] INFO: Overlay enabled: No
+[cli] INFO: Enabled Overlay path: None
+[cli] INFO: No enabled Vulkan layers.
+[Core] INFO: Trying to re-use existing login session...
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+{"game": {"app_name": "Sugar", "title": "Rocket League\u00ae", "version": "BC2_Update45+430366", "platform_versions": {"Windows": "BC2_Update45+430366"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "owned_dlc": []}, "install": {"platform": "Windows", "version": "BC2_Update45+430366", "disk_size": 27117569851, "install_path": "/home/dennysesay/Games/Heroic/rocketleague", "save_path": null, "synced_egl_guid": "", "install_tags": [], "requires_ovt": false, "installed_dlc": []}, "manifest": {"size": 2106600, "type": "binary", "version": 17, "feature_level": 17, "app_name": "SugarStaging", "launch_exe": "Binaries/Win64/RocketLeague.exe", "launch_command": "", "build_version": "BC2_Update45+430366", "build_id": "cU5ZWeU1QoO4OLS3mHUzQbjEXv8", "prerequisites": null, "install_tags": [""], "num_files": 13758, "num_chunks": 23913, "disk_size": 27117569851, "download_size": 24569857957, "tag_disk_size": [], "tag_download_size": []}}
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:dbghelp:elf_search_auxv can't find symbol in module
+00cc:fixme:faultrep:ReportFault 00007FFFFE5CEA10 0x0 stub
+[10/10/2023, 7:07:50 AM] XDG_CONFIG_HOME=/home/dennysesay/.config/heroic/legendaryConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_4919)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-26.20-CL-28096793-Windows)
+ * Honkai Impact 3rd (App name: 0dc22b543a40440fab5a98d1e40c02c1 | Version: 2.25.2)
+ * MultiVersus (App name: 711c5e95dc094ca58e5f16bd48e751d6 | Version: 80480)
+ * Rocket League® (App name: Sugar | Version: BC2_Update45+430366)
+ * Trackmania (App name: Pigeon | Version: 1.3)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * VALORANT (App name: 602eb4abc8764c87b7f2607a1ef8c18e | Version: 4352238-29145)
+
+Total: 7
+
+Legendary update available!
+- New version: 0.20.33 - "Undue Alarm"
+- Release summary:
+ [*] Improved handling of SDL changes
+ [*] Added safeguards to prevent two simultaneous instances from corrupting the database
+ [*] Added support for running uninstallers
+ [*] More gracefully handles account errors
+See full changelog for additional details.
+- Release URL: https://legendary.gl/release/0.20.33
+
+- Download URL: https://legendary.gl/release/download/0.20.33/legendary

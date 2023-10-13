@@ -1,0 +1,13 @@
+2023/10/08-17:12:07.503 44b Reusing MANIFEST /home/dennysesay/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/08-17:12:07.503 44b Recovering log #15
+2023/10/08-17:12:07.504 44b Reusing old log /home/dennysesay/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000015.log 
+2023/10/08-17:12:07.520 457 Level-0 table #21: started
+2023/10/08-17:12:07.521 457 Level-0 table #21: 8477 bytes OK
+2023/10/08-17:12:07.523 457 Delete type=0 #15
+2023/10/08-17:12:07.523 457 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/08-17:12:42.725 44b Compacting 1@1 + 1@2 files
+2023/10/08-17:12:42.734 44b Generated table #22@1: 57 keys, 4621 bytes
+2023/10/08-17:12:42.734 44b Compacted 1@1 + 1@2 files => 4621 bytes
+2023/10/08-17:12:42.736 44b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/08-17:12:42.736 44b Delete type=2 #21
+2023/10/08-17:12:42.736 44b Delete type=2 #18
